@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      margin: 32px;
+      max-width: 600px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+</head>
+<meta charset="utf-8">
+
+<body>
+  <div>
+    <select id="languageSelector">
+      <option value="en">English</option>
+      <option value="de">Deutsch</option>
+    </select>
+  </div>
+
+  <h1 class="lang lang-en">Privacy Policy</h1>
+  <h1 class="lang lang-de">Datenschutzerklärung</h1>
+
+  <h2 class="lang lang-en">Scope</h2>
+  <h2 class="lang lang-de">Umfang</h2>
+
+  <p class="lang lang-en">
+    This data protection declaration is intended to inform the users of this app about the type,
+    scope and purpose of the collection and use of personal data by the app operator Colin Schmale, Sülldorfer Mühlenweg
+    34, 22589 Hamburg, Germany. The app operator takes your data protection very seriously and treats your personal data
+    confidentially and in accordance with legal regulations. He wants you to know when he collects which data and how he
+    uses it. He has taken technical and organizational measures to ensure that data protection regulations are observed
+    both by him and by external service providers. In the course of the further development of his app and the
+    implementation of new technologies to improve the service for you, changes to this data protection declaration may
+    also be necessary. He therefore recommends that you read this data protection declaration again from time to time.
+  </p>
+  <p class="lang lang-de">
+    Diese Datenschutzerklärung soll die Nutzer dieser App über Art, Umfang und Zweck der Erhebung
+    und Verwendung personenbezogener Daten durch den App-Betreiber Colin Schmale, Eekberg 9, 24149 Kiel, Deutschland,
+    informieren. Der App-Betreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre personenbezogenen Daten
+    vertraulich und entsprechend der gesetzlichen Vorschriften. Er möchte, dass Sie wissen, wann er welche Daten erhebt
+    und wie er sie verwendet. Er hat technische und organisatorische Maßnahmen getroffen, um sicherzustellen, dass die
+    datenschutzrechtlichen Bestimmungen sowohl von ihm als auch von externen Dienstleistern eingehalten werden. Im Zuge
+    der Weiterentwicklung seiner App und der Implementierung neuer Technologien, um den Service für Sie zu verbessern,
+    können auch Änderungen dieser Datenschutzerklärung erforderlich werden. Er empfiehlt Ihnen daher, diese
+    Datenschutzerklärung von Zeit zu Zeit erneut zu lesen.
+  </p>
+
+  <h2 class="lang lang-en">Access Data</h2>
+  <h2 class="lang lang-de">Zugangsdaten</h2>
+
+  <p class="lang lang-en">
+    Data about access to the app operators web server is collected and saved as "server log
+    files". The following data is logged in this way: website visited, time of access, operating system used and IP
+    address. The data collected is only used to improve the app and for error detection. However, the app operator
+    reserves the right to check the server log files retrospectively if there are specific indications of illegal use.
+  </p>
+  <p class="lang lang-de">
+    Es werden Daten über Zugriffe auf den Webserver des App-Betreibers erhoben und als
+    „Server-Logfiles“ gespeichert. Folgende Daten werden so protokolliert: Besuchte Website, Uhrzeit des Zugriffs,
+    verwendetes Betriebssystem und IP-Adresse. Die erhobenen Daten werden nur zur Verbesserung der App und zur
+    Fehlererkennung verwendet. Der App-Betreiber behält sich jedoch vor, die Server-Logfiles nachträglich zu überprüfen,
+    sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
+  </p>
+
+  <h2 class="lang lang-en">Handling of contact data</h2>
+  <h2 class="lang lang-de">Umgang mit Kontaktdaten</h2>
+
+  <p class="lang lang-en">
+    If you contact the app operator through the contact options offered, your details will be
+    saved so that they can be used to process and answer your request. Without your consent, this data will not be
+    passed on to third parties.
+  </p>
+  <p class="lang lang-de">
+    Nehmen Sie mit dem App-Betreiber durch die angebotenen Kontaktmöglichkeiten Verbindung auf,
+    werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen
+    werden kann. Diese Daten werden ohne Ihre Einwilligung nicht an Dritte weitergegeben.
+  </p>
+
+  <h2 class="lang lang-en">Rights of the user: information, correction and deletion</h2>
+  <h2 class="lang lang-de">Rechte des Nutzers: Auskunft, Berichtung und Löschung</h2>
+
+  <p class="lang lang-en">
+    Upon request, you as a user will receive free information about which personal data has been
+    stored about you. You have the right to correct incorrect data and to have your personal data blocked or deleted.
+  </p>
+  <p class="lang lang-de">
+    Auf Antrag erhalten Sie als Nutzer unentgeltlich Auskunft darüber, welche personenbezogenen
+    Daten über Sie gespeichert wurden. Sie haben ein Recht auf Berichtigung unrichtiger Daten sowie auf Sperrung oder
+    Löschung Ihrer personenbezogenen Daten.
+  </p>
+
+  <h2 class="lang lang-en">Data protection officer</h2>
+  <h2 class="lang lang-de">Datenschutzbeauftragter</h2>
+
+  <p>Colin Schmale<br />Sülldorfer Mühlenweg 34<br />22589 Hamburg<br />Germany</p>
+
+  <h2 class="lang lang-en">Email</h2>
+  <h2 class="lang lang-de">E-Mail</h2>
+
+  <p>
+    &#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#119;&#97;&#114;&#114;&#101;&#112;&#111;&#114;&#116;&#46;&#97;&#112;&#112;
+  </p>
+
+  <script>
+    function changeLanguage(languageCode) {
+      if (languageCode == 'de') {
+        document.title = "Datenschutzerklärung";
+      } else {
+        document.title = "Privacy Policy";
+      }
+      Array.from(document.getElementsByClassName('lang')).forEach(function (elem) {
+        if (elem.classList.contains('lang-' + languageCode)) {
+          elem.style.display = 'inherit';
+        }
+        else {
+          elem.style.display = 'none';
+        }
+      });
+    }
+
+    const selector = document.getElementById('languageSelector');
+    selector.addEventListener('change', function (evt) {
+      changeLanguage(this.value);
+    });
+
+    const language = navigator.userLanguage || navigator.language || 'en-EN';
+    const startLanguage = Array.from(selector.options).map(opt => opt.value).find(val => language.includes(val)) || 'en';
+    changeLanguage(startLanguage);
+
+    selector.selectedIndex = Array.from(selector.options).map(opt => opt.value).indexOf(startLanguage)
+  </script>
+</body>
+
+</html>
