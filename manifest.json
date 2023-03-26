@@ -1,13 +1,31 @@
 {
-    "name": "warreport",
-    "short_name": "warreport",
+    "name": "War Report for Clash of Clans",
+    "short_name": "War Report",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "War Report for Clash of Clans made with Flutter",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "dir": "auto",
+    "lang": "en",
+    "description": "War Report is a companion app for players of Clash of Clans. It helps you keep track of your clans and provides you with useful stats about clan wars and the clan war league.",
     "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "prefer_related_applications": true,
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=de.colinschmale.warreport",
+            "id": "de.colinschmale.warreport"
+        },
+        {
+            "platform": "itunes",
+            "url": "https://itunes.apple.com/app/war-report-for-clash-of-clans/id1669237796"
+        }
+    ],
+    "categories": [
+        "entertainment",
+        "games",
+        "utilities"
+    ],
     "icons": [
         {
             "src": "icons/Icon-192.png",
