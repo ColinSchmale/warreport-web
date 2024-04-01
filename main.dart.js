@@ -7791,7 +7791,7 @@ if(s)return
 s=A.a3("Illegal drive letter "+A.aER(a))
 throw A.d(s)},
 buT(a){var s
-if(a.length===0)return B.Fi
+if(a.length===0)return B.Fh
 s=A.be4(a)
 s.a8c(s,A.bfC())
 return A.b2_(s,t.N,t.yp)},
@@ -30927,7 +30927,7 @@ J.Sc(r.cQ(0,null,new A.aBA()),s)}return r},
 br5(a,b,c,d,e,f,g){var s,r,q,p,o,n,m,l,k,j=e.b,i=e.y
 i===$&&A.c()
 s=i.aGe(0,d)
-if(s==null)return B.Fk
+if(s==null)return B.Fj
 r=A.byS(e.x,s)
 i=t.N
 q=r.t6(r,new A.aBy(),i,i)
@@ -30940,7 +30940,7 @@ n=p==="/"?0:1
 m=B.c.cW(i,p.length+n)
 for(i=e.a,n=i.length,l=null,k=0;k<i.length;i.length===n||(0,A.X)(i),++k){l=A.bbE(p,o,c,m,i[k],f,g)
 if(l.gcI(l))break}i=l==null?null:l.gai(l)
-if(i!==!1)return B.Fk
+if(i!==!1)return B.Fj
 c.N(0,q)
 J.b7g(l.cQ(0,j,new A.aBz()),0,new A.fi(e,p,new A.cg(o,t.kK)))
 return l},
@@ -33946,8 +33946,8 @@ this.c=c},
 a7A:function a7A(){},
 bd0(a){return a},
 bcW(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5){return new A.pk(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5)},
-b4f(b2){var s,r,q,p,o,n,m,l,k,j,i,h,g="location",f=null,e="badgeUrls",d="warLeague",c="chatLanguage",b=J.ae(b2),a=A.by(b.h(b2,"tag")),a0=A.by(b.h(b2,"name")),a1=A.by(b.h(b2,"description")),a2=t.N,a3=A.yk(B.Fg,b.h(b2,"type"),t.tl,a2),a4=b.h(b2,g)==null?f:A.b4i(t.P.a(b.h(b2,g))),a5=A.eg(b.h(b2,"isFamilyFriendly")),a6=b.h(b2,e)==null?f:A.b4e(t.P.a(b.h(b2,e))),a7=A.bu(b.h(b2,"clanLevel")),a8=A.aW(b.h(b2,"clanPoints")),a9=A.aW(b.h(b2,"clanBuilderBasePoints")),b0=A.aW(b.h(b2,"clanCapitalPoints")),b1=A.aW(b.h(b2,"requiredTrophies"))
-a2=A.yk(B.Fc,b.h(b2,"warFrequency"),t.qJ,a2)
+b4f(b2){var s,r,q,p,o,n,m,l,k,j,i,h,g="location",f=null,e="badgeUrls",d="warLeague",c="chatLanguage",b=J.ae(b2),a=A.by(b.h(b2,"tag")),a0=A.by(b.h(b2,"name")),a1=A.by(b.h(b2,"description")),a2=t.N,a3=A.yk(B.Ff,b.h(b2,"type"),t.tl,a2),a4=b.h(b2,g)==null?f:A.b4i(t.P.a(b.h(b2,g))),a5=A.eg(b.h(b2,"isFamilyFriendly")),a6=b.h(b2,e)==null?f:A.b4e(t.P.a(b.h(b2,e))),a7=A.bu(b.h(b2,"clanLevel")),a8=A.aW(b.h(b2,"clanPoints")),a9=A.aW(b.h(b2,"clanBuilderBasePoints")),b0=A.aW(b.h(b2,"clanCapitalPoints")),b1=A.aW(b.h(b2,"requiredTrophies"))
+a2=A.yk(B.Fm,b.h(b2,"warFrequency"),t.qJ,a2)
 s=A.aW(b.h(b2,"warWinStreak"))
 r=A.aW(b.h(b2,"warWins"))
 q=A.aW(b.h(b2,"warTies"))
@@ -34062,7 +34062,7 @@ _.b=b
 _.c=c
 _.d=d},
 a9Z:function a9Z(){},
-bsV(a){var s=J.ae(a),r=A.aL(s.h(a,"name")),q=A.bgG(B.Ff,s.h(a,"type"),B.tz)
+bsV(a){var s=J.ae(a),r=A.aL(s.h(a,"name")),q=A.bgG(B.Fe,s.h(a,"type"),B.tz)
 s=J.bI(t.j.a(s.h(a,"maxLevels")),new A.aJr(),t.S)
 return new A.LP(r,q,A.Y(s,!0,A.n(s).i("ak.E")))},
 iW:function iW(){},
@@ -34104,7 +34104,7 @@ _.d=d
 _.e=e},
 aJt:function aJt(){},
 aaF:function aaF(){},
-bsY(a){var s=A.yk(B.Fe,a.h(0,"state"),t.Vk,t.N),r=A.by(a.h(0,"season")),q=t.kc,p=q.a(a.h(0,"clans"))
+bsY(a){var s=A.yk(B.Fd,a.h(0,"state"),t.Vk,t.N),r=A.by(a.h(0,"season")),q=t.kc,p=q.a(a.h(0,"clans"))
 if(p==null)p=null
 else{p=J.bI(p,new A.aJu(),t.Ns)
 p=A.Y(p,!0,A.n(p).i("ak.E"))}q=q.a(a.h(0,"rounds"))
@@ -34455,7 +34455,7 @@ return new A.yV(A.b3I(s,new A.amf(),new A.amg()))},
 bl4(a){return A.bsT(A.mP(B.aZ.lR(0,a,null),t.N,t.z))},
 bl6(a){return A.bt_(A.mP(B.aZ.lR(0,a,null),t.N,t.z))},
 bl8(a){var s,r,q,p,o,n,m,l=null,k="preparationStartTime",j="startTime",i="warStartTime",h="opponent",g=t.N,f=A.mP(B.aZ.lR(0,a,l),g,t.z),e=A.by(f.h(0,"warTag"))
-g=A.yk(B.Fm,f.h(0,"state"),t.Dt,g)
+g=A.yk(B.Fl,f.h(0,"state"),t.Dt,g)
 s=A.aW(f.h(0,"teamSize"))
 r=A.aW(f.h(0,"attacksPerMember"))
 q=f.h(0,k)==null?l:A.zj(A.aL(f.h(0,k)))
@@ -48018,14 +48018,14 @@ p=[]
 for(o=0;o<q;++o)p.push(r.h(s,o))
 return J.b9Z(p)},
 gaGy(){var s,r,q,p,o,n,m,l,k=this
-if(k.c!==0)return B.Fh
+if(k.c!==0)return B.Fg
 s=k.e
 r=J.ae(s)
 q=r.gu(s)
 p=k.d
 o=J.ae(p)
 n=o.gu(p)-q-k.f
-if(q===0)return B.Fh
+if(q===0)return B.Fg
 m=new A.hD(t.Hf)
 for(l=0;l<q;++l)m.n(0,new A.lR(r.h(s,l)),o.h(p,n+l))
 return new A.uN(m,t.qO)}}
@@ -52501,7 +52501,7 @@ q=r+1}s.push(B.c.W(o,q,p))
 return A.Ao(s,t.N)},
 gw9(){if(this.f>=this.r)return B.cF
 return new A.lV(A.bcB(this.gos(0)),t.G5)},
-got(){if(this.f>=this.r)return B.Fi
+got(){if(this.f>=this.r)return B.Fh
 var s=A.be4(this.gos(0))
 s.a8c(s,A.bfC())
 return A.b2_(s,t.N,t.yp)},
@@ -55756,7 +55756,7 @@ r=A.az(n,m.T[l],B.l,n,n,n,n,48,n,n,B.bF,n)
 q=!m.cm&&l===m.bZ
 r=A.d3(q,n,!0,r,n,!0,n,n,n,n,n,o.gaka(),n,n,n,o.gakc(),n,n,n,n,n,n,n)
 r=new A.c0(s,!1,r,n)
-p=A.Km(r,n,B.Fd)
+p=A.Km(r,n,B.Fc)
 return p}}
 A.Da.prototype={
 a9(){return new A.N8(A.cZ([B.eh,B.R],t.ui),B.p,this.$ti.i("N8<1>"))}}
@@ -63750,7 +63750,7 @@ k=l.e
 s=l.c
 l=l.w
 o=A.d3(l===s.cm,m,!0,A.az(m,s.T[l],B.l,m,m,m,m,s.hi,m,m,k,m),m,!0,m,m,m,m,m,n.gak7(),m,m,m,n.gao_(),m,m,m,m,m,m,m)
-o=A.Km(new A.c0(r,!1,o,m),m,B.Fd)
+o=A.Km(new A.c0(r,!1,o,m),m,B.Fc)
 return o}}
 A.D9.prototype={
 a9(){return new A.N7(B.p,this.$ti.i("N7<1>"))}}
@@ -92638,9 +92638,9 @@ q=p.gP()}if(r||q==null)return
 o=s.c.ga4()
 if(!(o instanceof A.K))return
 n=$.af.G$.z.h(0,b0.p2)
-m=n!=null?A.b9w(n,b3,s):B.Fj
+m=n!=null?A.b9w(n,b3,s):B.Fi
 l=$.af.G$.z.h(0,b1.p2)
-k=l!=null?A.b9w(l,b3,s):B.Fj
+k=l!=null?A.b9w(l,b3,s):B.Fi
 for(s=m.gfp(m),s=s.gaA(s),r=a9.a,p=a9.b,j=a9.gajj(),i=a9.gand(),h=t.x8,g=t.jc,f=t.qj,e=t.fy,d=t.Y,c=t.m,b=d.i("aE<aF.T>"),a=t.k2;s.t();){a0=s.gK(s)
 a1=a0.a
 a2=a0.b
@@ -98833,7 +98833,7 @@ $2(a,b){if(!a.a)a.I(0,b)},
 $S:79}
 A.K4.prototype={
 a9(){var s=null,r=t.C
-return new A.Br(new A.adZ($.aI()),new A.b6(s,r),new A.b6(s,t.hA),new A.b6(s,r),B.Fl,s,A.O(t.yb,t.M),s,!0,s,s,s,B.p)},
+return new A.Br(new A.adZ($.aI()),new A.b6(s,r),new A.b6(s,t.hA),new A.b6(s,r),B.Fk,s,A.O(t.yb,t.M),s,!0,s,s,s,B.p)},
 aJz(a,b){return this.f.$2(a,b)}}
 A.aCr.prototype={
 $1(a){return null},
@@ -98964,7 +98964,7 @@ aaa(a){var s,r,q=this
 if(a===q.ay)s=!a||A.bg(q.a.c)===q.ch
 else s=!1
 if(s)return
-if(!a){q.at=B.Fl
+if(!a){q.at=B.Fk
 q.a_d()}else{switch(A.bg(q.a.c).a){case 1:q.at=A.a4([B.lP,new A.dh(new A.aCn(q),new A.aCo(q),t.ok)],t.u,t.xR)
 break
 case 0:q.at=A.a4([B.pM,new A.dh(new A.aCp(q),new A.aCq(q),t.Uv)],t.u,t.xR)
@@ -117022,7 +117022,7 @@ gv(a){var s=this
 return A.cU([A.q(s),s.a,s.b,s.c,s.d,s.e,s.f,s.r,s.w,s.x,s.y,s.z,s.Q,s.as,s.at,s.ax,s.ay,s.ch,s.CW,s.cx,s.cy,B.A.cP(0,s.db),B.A.cP(0,s.dx),s.dy,s.fr,s.fx])},
 gdu(){return new A.QQ(this,B.NO,t.Kr)},
 bj(){var s=this
-return A.a4(["tag",s.a,"name",s.b,"description",s.c,"type",B.Fg.h(0,s.d),"location",s.e,"isFamilyFriendly",s.f,"badgeUrls",s.r,"clanLevel",s.w,"clanPoints",s.x,"clanBuilderBasePoints",s.y,"clanCapitalPoints",s.z,"requiredTrophies",s.Q,"warFrequency",B.Fc.h(0,s.as),"warWinStreak",s.at,"warWins",s.ax,"warTies",s.ay,"warLosses",s.ch,"isWarLogPublic",s.CW,"warLeague",s.cx,"members",s.cy,"labels",s.gq1(0),"memberList",s.gfW(),"requiredBuilderBaseTrophies",s.dy,"requiredTownHallLevel",s.fr,"chatLanguage",s.fx],t.N,t.z)},
+return A.a4(["tag",s.a,"name",s.b,"description",s.c,"type",B.Ff.h(0,s.d),"location",s.e,"isFamilyFriendly",s.f,"badgeUrls",s.r,"clanLevel",s.w,"clanPoints",s.x,"clanBuilderBasePoints",s.y,"clanCapitalPoints",s.z,"requiredTrophies",s.Q,"warFrequency",B.Fm.h(0,s.as),"warWinStreak",s.at,"warWins",s.ax,"warTies",s.ay,"warLosses",s.ch,"isWarLogPublic",s.CW,"warLeague",s.cx,"members",s.cy,"labels",s.gq1(0),"memberList",s.gfW(),"requiredBuilderBaseTrophies",s.dy,"requiredTownHallLevel",s.fr,"chatLanguage",s.fx],t.N,t.z)},
 $ihX:1,
 OF(a){return this.gdu().$1$warLeague(a)},
 a3l(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5){return this.gdu().$25$badgeUrls$chatLanguage$clanBuilderBasePoints$clanCapitalPoints$clanLevel$clanPoints$description$isFamilyFriendly$isWarLogPublic$labels$location$memberList$members$name$requiredBuilderBaseTrophies$requiredTownHallLevel$requiredTrophies$tag$type$warFrequency$warLeague$warLosses$warTies$warWinStreak$warWins(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5)},
@@ -117229,7 +117229,7 @@ else s=!0
 return s},
 gv(a){var s=this
 return A.V(A.q(s),s.a,s.b,B.A.cP(0,s.c),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
-bj(){var s=B.Ff.h(0,this.b)
+bj(){var s=B.Fe.h(0,this.b)
 s.toString
 return A.a4(["name",this.a,"type",s,"maxLevels",this.gel()],t.N,t.z)},
 $iiW:1,
@@ -117370,7 +117370,7 @@ return s},
 gv(a){var s=this
 return A.V(A.q(s),s.a,s.b,B.A.cP(0,s.c),B.A.cP(0,s.d),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 bj(){var s=this
-return A.a4(["state",B.Fe.h(0,s.a),"season",s.b,"clans",s.grr(),"rounds",s.gqk()],t.N,t.z)},
+return A.a4(["state",B.Fd.h(0,s.a),"season",s.b,"clans",s.grr(),"rounds",s.gqk()],t.N,t.z)},
 $ivS:1,
 gbD(a){return this.a}}
 A.aJu.prototype={
@@ -117958,7 +117958,7 @@ return s},
 gv(a){var s=this
 return A.V(A.q(s),s.a,s.b,s.c,s.d,s.e,s.f,s.r,s.w,s.x,s.y,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 gdu(){return new A.QU(this,B.NP,t.kv)},
-bj(){var s,r,q,p=this,o=null,n=B.Fm.h(0,p.b),m=p.e
+bj(){var s,r,q,p=this,o=null,n=B.Fl.h(0,p.b),m=p.e
 m=m==null?o:m.wj()
 s=p.f
 s=s==null?o:s.wj()
@@ -128982,13 +128982,6 @@ B.oC=new A.r5(5,"spaceEvenly")
 B.N=new A.Yd(0,"min")
 B.j=new A.Yd(1,"max")
 B.a4P=new A.w3(B.iR,B.iR,A.al("w3<m,m>"))
-B.aim=new A.lY("Never",0,"never")
-B.ain=new A.lY("Rarely",1,"lessThenOncePerWeek")
-B.aio=new A.lY("Once a week",2,"oncePerWeek")
-B.aip=new A.lY("Twice a week",3,"moreThanOncePerWeek")
-B.aik=new A.lY("Always",4,"always")
-B.ail=new A.lY("Not set",5,"unknown")
-B.Fc=new A.ci([B.aim,"never",B.ain,"lessThenOncePerWeek",B.aio,"oncePerWeek",B.aip,"moreThanOncePerWeek",B.aik,"always",B.ail,"unknown"],A.al("ci<lY,m>"))
 B.FW=new A.J(16)
 B.FX=new A.J(17)
 B.ic=new A.J(18)
@@ -129588,7 +129581,7 @@ B.agM=new A.xq(2,"down")
 B.Rh=new A.qC(B.agM)
 B.Lc=new A.xq(0,"up")
 B.Rg=new A.qC(B.Lc)
-B.Fd=new A.ci([B.h3,B.Rh,B.h2,B.Rg],t.Fp)
+B.Fc=new A.ci([B.h3,B.Rh,B.h2,B.Rg],t.Fp)
 B.alF=new A.E6(1,"left")
 B.Lw=new A.m1(B.alF)
 B.alE=new A.E6(0,"right")
@@ -129753,34 +129746,41 @@ B.a55=new A.ci([32,B.Aq,33,B.a3D,34,B.a3E,35,B.a3F,36,B.a3G,37,B.a3H,38,B.a3I,39
 B.Uq=new A.qY(0,"notInWar")
 B.Ur=new A.qY(1,"preparation")
 B.Us=new A.qY(2,"inWar")
-B.Fe=new A.ci([B.Uq,"notInWar",B.Ur,"preparation",B.Us,"inWar",B.jJ,"ended"],A.al("ci<qY,m>"))
+B.Fd=new A.ci([B.Uq,"notInWar",B.Ur,"preparation",B.Us,"inWar",B.jJ,"ended"],A.al("ci<qY,m>"))
 B.cd=new A.r7(0,"canvas")
 B.eS=new A.r7(1,"card")
 B.Fx=new A.r7(2,"circle")
 B.oF=new A.r7(3,"button")
 B.ej=new A.r7(4,"transparency")
 B.a56=new A.ci([B.cd,null,B.eS,B.hp,B.Fx,null,B.oF,B.hp,B.ej,null],A.al("ci<r7,cR?>"))
-B.Ff=new A.ci([B.tx,"common",B.ty,"epic",B.tz,"unknown"],A.al("ci<zB,m>"))
+B.Fe=new A.ci([B.tx,"common",B.ty,"epic",B.tz,"unknown"],A.al("ci<zB,m>"))
 B.Pr=new A.qs("Invite only",0,"inviteOnly")
 B.Pq=new A.qs("Closed",1,"closed")
 B.Ps=new A.qs("Anyone can join",2,"open")
-B.Fg=new A.ci([B.Pr,"inviteOnly",B.Pq,"closed",B.Ps,"open"],A.al("ci<qs,m>"))
-B.Fj=new A.ar(B.ce,[],A.al("ar<L,Dq>"))
+B.Ff=new A.ci([B.Pr,"inviteOnly",B.Pq,"closed",B.Ps,"open"],A.al("ci<qs,m>"))
+B.Fi=new A.ar(B.ce,[],A.al("ar<L,Dq>"))
 B.a59=new A.ar(B.ce,[],A.al("ar<ez,ez>"))
 B.kS=new A.ar(B.ce,[],A.al("ar<BD,bz>"))
-B.Fi=new A.ar(B.ce,[],A.al("ar<m,M<m>>"))
+B.Fh=new A.ar(B.ce,[],A.al("ar<m,M<m>>"))
 B.cE=new A.ar(B.ce,[],A.al("ar<m,@>"))
 B.a58=new A.ar(B.ce,[],A.al("ar<m,m?>"))
-B.Fh=new A.ar(B.ce,[],A.al("ar<KT,@>"))
+B.Fg=new A.ar(B.ce,[],A.al("ar<KT,@>"))
 B.a57=new A.ar(B.ce,[],A.al("ar<h7,dD>"))
-B.Fl=new A.ar(B.ce,[],A.al("ar<h7,vv<dD>>"))
-B.Fk=new A.ar(B.ce,[],A.al("ar<ej<hE>?,M<hm>>"))
+B.Fk=new A.ar(B.ce,[],A.al("ar<h7,vv<dD>>"))
+B.Fj=new A.ar(B.ce,[],A.al("ar<ej<hE>?,M<hm>>"))
 B.alG=new A.E6(2,"up")
 B.akk=new A.m1(B.alG)
 B.alH=new A.E6(3,"down")
 B.akl=new A.m1(B.alH)
 B.a5a=new A.ci([B.h2,B.akk,B.h3,B.akl,B.h4,B.Lw,B.h5,B.Lv],t.Fp)
-B.Fm=new A.ci([B.dC,"notInWar",B.hs,"preparation",B.fn,"inWar",B.bV,"warEnded"],A.al("ci<nW,m>"))
+B.Fl=new A.ci([B.dC,"notInWar",B.hs,"preparation",B.fn,"inWar",B.bV,"warEnded"],A.al("ci<nW,m>"))
+B.aim=new A.lY("Never",0,"never")
+B.ain=new A.lY("Rarely",1,"lessThanOncePerWeek")
+B.aio=new A.lY("Once a week",2,"oncePerWeek")
+B.aip=new A.lY("Twice a week",3,"moreThanOncePerWeek")
+B.aik=new A.lY("Always",4,"always")
+B.ail=new A.lY("Not set",5,"unknown")
+B.Fm=new A.ci([B.aim,"never",B.ain,"lessThanOncePerWeek",B.aio,"oncePerWeek",B.aip,"moreThanOncePerWeek",B.aik,"always",B.ail,"unknown"],A.al("ci<lY,m>"))
 B.bu=new A.hp(0,"win")
 B.du=new A.hp(1,"lose")
 B.cg=new A.hp(2,"tie")
