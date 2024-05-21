@@ -127947,7 +127947,7 @@ s=3
 return A.z(p.a.ij("GET",A.cy("https://clashapi.colinschmale.dev/v1/locations",0,null),A.Z(["apikey","vAggXnhfhGdDoZDmvb2UBZTm"],o,o)),$async$mL)
 case 3:n=b
 m=n.b
-if(m!==200)if(m===503)throw A.h(B.et)
+if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.bO4(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t.iQ)
 s=1
@@ -127964,7 +127964,7 @@ case 3:n=c
 m=n.b
 if(m===403){q=null
 s=1
-break}if(m!==200)if(m===503)throw A.h(B.et)
+break}if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.btL(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t.lq)
 s=1
@@ -127981,7 +127981,7 @@ case 3:n=c
 m=n.b
 if(m===404){q=null
 s=1
-break}if(m!==200)if(m===503)throw A.h(B.et)
+break}if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.bO1(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t.s9)
 s=1
@@ -127998,7 +127998,7 @@ case 3:n=c
 m=n.b
 if(m===404){q=null
 s=1
-break}if(m!==200)if(m===503)throw A.h(B.et)
+break}if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.bO5(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t.SA)
 s=1
@@ -128015,7 +128015,7 @@ case 3:n=c
 m=n.b
 if(m===403||m===404){q=null
 s=1
-break}if(m!==200)if(m===503)throw A.h(B.et)
+break}if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.bO3(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t.lB)
 s=1
@@ -128032,7 +128032,7 @@ case 3:n=c
 m=n.b
 if(m===403){q=null
 s=1
-break}if(m!==200)if(m===503)throw A.h(B.et)
+break}if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.btL(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t.lq)
 s=1
@@ -128049,7 +128049,7 @@ case 3:n=c
 m=n.b
 if(m===403){q=null
 s=1
-break}if(m!==200)if(m===503)throw A.h(B.et)
+break}if(m!==200)if(m===504||m===503||m===502||m===500)throw A.h(B.et)
 else throw A.h(A.h6(B.f.j(m),null))
 q=A.ij(A.bO6(),A.nD(J.as(A.nB(n.e).c.a,"charset")).ea(0,n.w),null,o,t._U)
 s=1
