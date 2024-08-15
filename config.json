@@ -1,0 +1,12 @@
+{
+    "messageConfig": {
+        "id": 1723733574,
+        "type": "info",
+        "message": "This is a test",
+        "url": "https://discord.gg/pEDjJgy"
+    },
+    "clashKingConfig": {
+        "limit": 100,
+        "debounceTime": 0
+    }
+}
