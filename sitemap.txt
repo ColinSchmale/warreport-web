@@ -2,3 +2,4 @@ https://www.warreport.app
 https://www.warreport.app/#/?action=search_clan
 https://www.warreport.app/#/?action=search_player
 https://www.warreport.app/about
+https://docs.warreport.app
