@@ -1,10 +1,4 @@
 {
-    "messageConfig": {
-        "id": 1723733574,
-        "type": "info",
-        "message": "",
-        "url": "https://discord.gg/pEDjJgy"
-    },
     "clashKingConfig": {
         "limit": 100,
         "debounceTime": 0
