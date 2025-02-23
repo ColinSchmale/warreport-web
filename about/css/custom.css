@@ -13,22 +13,6 @@
     line-height: 3rem;
 }
 
-.nav-container nav {
-    height: 5rem;
-}
-
-.nav-container nav a:first-of-type {
-    align-items: end;
-}
-
-.nav-container nav a:first-of-type span {
-    font-family: "clashRegular";
-    font-weight: 400;
-    font-size: 1.25rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
-
 .custom-footer-content {
     display: flex;
     justify-content: space-between;
