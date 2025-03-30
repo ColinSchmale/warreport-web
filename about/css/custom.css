@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "clashRegular";
+    src: url("../fonts/Clash_Regular.otf");
+}
+
+:root {
+    --navbar-height: 5rem;
+}
+
+.hx-gap-8 {
+    gap: 2rem;
+}
+
+.hero-title {
+    text-align: center;
+}
+
+.hero-subtitle {
+    text-align: center;
+}
+
+.hero-description {
+    text-align: justify;
+}
+
+.hero-download-buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.hero-download-buttons  img {
+    height: 70px;             
+    width: 180px;
+    object-fit: contain;
+    margin-top: 0;
+    margin-bottom: 0;
+    min-width: 180px;
+    min-height: 70px;
+}
+
+.hero-download-buttons  a:nth-of-type(2) img {
+    padding: 11.5px 11.5px;
+}
+
+.custom-footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hextra-custom-footer {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#disclaimer a {
+    color: hsl(var(--primary-hue) var(--primary-saturation) calc(calc(var(--primary-lightness) / 50) * 45) / var(--tw-text-opacity));
+    text-decoration: underline;
+}
+
+.discord-widget {
+    max-width: 500px;
+}
+
+.email b {
+    display: none;
+}
+
+.clash-regular {
+    font-family: "clashRegular";
+}
+
+.hextra-card-icon {
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.wr-color {
+    color: rgb(255, 213, 79, 1);
+    display: inline-block;
+}
