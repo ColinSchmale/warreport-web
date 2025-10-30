@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "Y8LCMJQ3S6.de.colinschmale.warreport",
+                "paths": [
+                    "/oauth2-redirect"
+                ]
+            }
+        ]
+    }
+}
