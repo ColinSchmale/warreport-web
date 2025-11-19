@@ -17,6 +17,6 @@
         "limit": 100,
         "debounceTime": 0
     },
-    "isWorldChampionshipEnabled": true,
+    "isWorldChampionshipEnabled": false,
     "isLegendLeagueSeasonEnabled": false
 }
