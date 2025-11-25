@@ -15,8 +15,7 @@
     },
     "clashKingConfig": {
         "limit": 100,
-        "debounceTime": 0
-    },
-    "isWorldChampionshipEnabled": false,
-    "isLegendLeagueSeasonEnabled": false
+        "debounceTime": 0,
+        "isLegendLeagueEnabled": false
+    }
 }
