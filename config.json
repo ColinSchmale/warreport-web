@@ -2,15 +2,15 @@
     "message2": {
         "id": "1737495194",
         "type": "info",
-        "message": "",
+        "message": "Hello World",
         "url": "https://discord.gg/pEDjJgy"
     },
-    "banner2": {
-        "id": "1737579484",
+    "banner": {
+        "id": "1765661601",
         "type": "info",
-        "title": "New giveaways",
-        "description": "Click here to join my Discord server and participate in the giveaways to win a Gold Pass or an Event Pass.",
-        "emoji": "🎁",
+        "title": "Merry Christmas!",
+        "description": "I'm giving away 5 Gold Passes. Click here to join my Discord server. 😊",
+        "emoji": "🎄",
         "url": "https://discord.gg/pEDjJgy"
     },
     "clashKingConfig": {
