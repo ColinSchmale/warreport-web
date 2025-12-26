@@ -5,7 +5,7 @@
         "message": "Hello World",
         "url": "https://discord.gg/pEDjJgy"
     },
-    "banner": {
+    "banner2": {
         "id": "1765661601",
         "type": "info",
         "title": "Merry Christmas!",
@@ -15,7 +15,6 @@
     },
     "clashKingConfig": {
         "limit": 100,
-        "debounceTime": 0,
-        "isLegendLeagueEnabled": false
+        "debounceTime": 0
     }
 }
