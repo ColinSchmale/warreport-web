@@ -7,19 +7,43 @@
     --navbar-height: 5rem;
     --primary-hue: 46deg;
     --primary-saturation: 100%;
-    --primary-lightness: 32.5%;
+}
+
+html.light {
+  --primary-lightness: 40%;
+}
+
+.hx\:text-\[color\:hsl\(var\(--primary-hue\)\,100\%\,50\%\)\] {
+    color: hsl(var(--primary-hue), 100%, 40%);
+}
+
+html.light .hextra-scrollbar a {
+  color: var(--hx-color-slate-900);
+}
+
+:root {
+  --hx-text-xs--line-height: 1.5;
+  --hx-text-sm--line-height: 1.5;
+  --hx-text-base--line-height: 1.5;
+  --hx-text-lg--line-height: 1.5;
+  --hx-text-xl--line-height: 1.5;
+  --hx-text-2xl--line-height: 1.5;
+  --hx-text-3xl--line-height: 1.5;
+  --hx-text-4xl--line-height: 1.5;
+  --hx-text-5xl--line-height: 1.5;
 }
 
 :is(html[class~="dark"] *) {
     --primary-lightness: 65%;
   }
 
-.hx-gap-8 {
+.hx\:gap-8 {
     gap: 2rem;
 }
 
 .hero-title {
     text-align: center;
+    text-transform: uppercase;
 }
 
 .hero-subtitle {
@@ -56,16 +80,19 @@
     align-items: center;
 }
 
+.hextra-footer {
+    background: transparent;
+}
+
 .hextra-custom-footer {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 0;
-    padding-right: 0;
 }
 
 #disclaimer a {
-    color: hsl(var(--primary-hue) var(--primary-saturation) calc(calc(var(--primary-lightness) / 50) * 45) / var(--tw-text-opacity));
-    text-decoration: underline;
+    color: var(--hx-color-primary-600);
+    text-decoration-line: underline;
+    text-decoration-thickness: from-font;
 }
 
 .discord-widget {

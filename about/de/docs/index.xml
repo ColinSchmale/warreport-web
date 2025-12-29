@@ -1,69 +1,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>War Report – Dokumentation</title><link>https://warreport.app/about/de/docs/</link><description>Recent content in Dokumentation on War Report</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://warreport.app/about/de/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Spieler</title><link>https://warreport.app/about/de/docs/features/players/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/players/</guid><description>
-&lt;p>Spielerdetails, wie z.B. die Helden- und Truppenstufen, werden auf der Spielerseite angezeigt. Für zusätzliche Informationen klicke auf eine der Schaltflächen in der oberen rechten Ecke, um Seiten mit detaillierten Statistiken zu den letzten Clankriegen und der Legendenliga aufzurufen.&lt;/p>
-&lt;h2>Spieler suchen&lt;span class="hx-absolute -hx-mt-20" id="spieler-suchen">&lt;/span>
-&lt;a href="#spieler-suchen" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Um einen Spieler zu suchen, klicke auf die Schaltfläche in der unteren rechten Ecke der Spielerseite. Du kannst Spieler mit deren Kürzel oder Namen suchen. Die Suche nach Namen basiert auf Daten, die vom ClashKing Discord-Bot bereitgestellt werden, und umfasst möglicherweise nicht alle Spieler.&lt;/p>
-&lt;p>Das Bild unten zeigt, wo du das Spielerkürzel findest. Klicke auf deine Erfahrung (1), um dein Profil zu öffnen (2), und kopiere dann das Kürzel (3) unter deinem Namen.&lt;/p>
-&lt;p>
-&lt;img src="../player_tag.jpg" alt="Player tag" loading="lazy" />&lt;/p>
-&lt;h2>Spieler speichern&lt;span class="hx-absolute -hx-mt-20" id="spieler-speichern">&lt;/span>
-&lt;a href="#spieler-speichern" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Setze ein Lesezeichen für deine Lieblingsspieler, indem du auf die Schaltfläche „Lesezeichen“ in der oberen rechten Ecke der Detailseite des Spielers klickst. Um ein Lesezeichen zu entfernen, klicke einfach erneut auf die Schaltfläche oder streiche den Spieler in deiner Lesezeichenliste nach links oder rechts. Du kannst deine Lesezeichen auch neu anordnen: Tippe auf ein beliebiges Element, halte es gedrückt und ziehe es dann an die gewünschte Position.&lt;/p></description></item><item><title>Clans</title><link>https://warreport.app/about/de/docs/features/clans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clans/</guid><description>
-&lt;p>Clan details, such as a list of all members and the number of wins, losses, and ties in clan wars, are displayed on the clan page. For additional information, click one of the buttons in the top-right corner to access pages with detailed statistics on recent Clan Wars and the Legends League.&lt;/p>
-&lt;h2>Clans suchen&lt;span class="hx-absolute -hx-mt-20" id="clans-suchen">&lt;/span>
-&lt;a href="#clans-suchen" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Um einen Clan zu suchen, klicke auf die Schaltfläche in der unteren rechten Ecke der Clanseite. Du kannst Clans mit deren Kürzel oder Namen suchen.&lt;/p>
-&lt;p>Das Bild unten zeigt, wo du das Clankürzel findest. Klicke auf deine Erfahrung (1), um dein Profil zu öffnen (2), klicke dann auf deinen Clan (2), und kopiere dann das Kürzel (3) unter dem Namen deines Clans.&lt;/p>
-&lt;p>
-&lt;img src="../clan_tag.jpg" alt="Clan tag" loading="lazy" />&lt;/p>
-&lt;h2>Clans speichern&lt;span class="hx-absolute -hx-mt-20" id="clans-speichern">&lt;/span>
-&lt;a href="#clans-speichern" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Setze ein Lesezeichen für deine Lieblingsclans, indem du auf die Schaltfläche „Lesezeichen“ in der oberen rechten Ecke der Detailseite des Clans klickst. Um ein Lesezeichen zu entfernen, klicke einfach erneut auf die Schaltfläche oder streiche den Clan in deiner Lesezeichenliste nach links oder rechts. Du kannst deine Lesezeichen auch neu anordnen: Tippe auf ein beliebiges Element, halte es gedrückt und ziehe es dann an die gewünschte Position.&lt;/p></description></item><item><title>FAQ</title><link>https://warreport.app/about/de/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/faq/</guid><description>
-&lt;h2>Warum gibt es keine Legendenliga-Statistiken für meinen Account?&lt;span class="hx-absolute -hx-mt-20" id="warum-gibt-es-keine-legendenliga-statistiken-für-meinen-account">&lt;/span>
-&lt;a href="#warum-gibt-es-keine-legendenliga-statistiken-f%c3%bcr-meinen-account" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Die Daten der Legenden-Liga werden vom ClashKing-Discord-Bot bereitgestellt, der eine große Datenbank mit den meisten Spielern der Legenden-Liga verwaltet. Es kann jedoch vorkommen, dass ein Spieler bei ClashKing noch nicht bekannt ist. Um einen Spieler zu dieser Datenbank hinzuzufügen, benutze bitte den Befehl &amp;lsquo;/legends search&amp;rsquo; im Chat meines &lt;a href="https://discord.gg/pEDjJgy" target="_blank" rel="noopener">Discord-Servers&lt;/a>.&lt;/p>
-&lt;p>
-&lt;img src="../legends_search.jpg" alt="Legendensuche" loading="lazy" />&lt;/p>
-&lt;h2>Warum sind die Daten nicht auf dem neuesten Stand?&lt;span class="hx-absolute -hx-mt-20" id="warum-sind-die-daten-nicht-auf-dem-neuesten-stand">&lt;/span>
-&lt;a href="#warum-sind-die-daten-nicht-auf-dem-neuesten-stand" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Die App ruft Daten von der Clash of Clans-API ab, die im Cache gespeichert sind. Dies kann zu kleinen Verzögerungen bei der Anzeige der neuesten Updates führen. Die folgende Tabelle zeigt die Caching-Dauer für API-Antworten.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Typ&lt;/th>
-&lt;th>Caching-Zeit&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Spieler&lt;/td>
-&lt;td>1 Minute&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Clans&lt;/td>
-&lt;td>2 Minuten&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Clankriege&lt;/td>
-&lt;td>2 Minuten&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Clan-Kriegsliga&lt;/td>
-&lt;td>10 Minuten&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2>Kann mein Konto wegen der Nutzung dieser App gesperrt werden?&lt;span class="hx-absolute -hx-mt-20" id="kann-mein-konto-wegen-der-nutzung-dieser-app-gesperrt-werden">&lt;/span>
-&lt;a href="#kann-mein-konto-wegen-der-nutzung-dieser-app-gesperrt-werden" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Nein. Die App verwendet nur Daten, die uns von Supercell zur Verfügung gestellt werden. Für weitere Informationen besuche bitte &lt;a href="https://developer.clashofclans.com" target="_blank" rel="noopener">https://developer.clashofclans.com&lt;/a>.&lt;/p>
-&lt;h2>Ist diese App von Supercell?&lt;span class="hx-absolute -hx-mt-20" id="ist-diese-app-von-supercell">&lt;/span>
-&lt;a href="#ist-diese-app-von-supercell" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Dieses Material ist inoffiziell und wird nicht von Supercell gebilligt. Weitere Informationen findest du in Supercells Richtlinien für Fan-Inhalte: &lt;a href="https://supercell.com/fan-content-policy" target="_blank" rel="noopener">https://supercell.com/fan-content-policy&lt;/a>.&lt;/p></description></item><item><title>Clankriege</title><link>https://warreport.app/about/de/docs/features/clan_wars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clan_wars/</guid><description>
-&lt;p>Unter „Clankriege“ werden die laufenden Clankriege der von dir mit Lesezeichen versehenen Spieler und Clans angezeigt. Verwende den Filter in der oberen rechten Ecke, wenn du nur bestimmte Kriegstypen sehen möchten. Du kannst auch Clans oder Spieler entfernen, von denen du keine laufenden Kriege sehen möchtest. Wenn du viele Lesezeichen hast, kann das Laden der Liste länger dauern. Verwende daher den Filter, um die Kriege auszuwählen, an denen du interessiert bist. Sobald sich ein Spieler oder Clan im Krieg befindet, findest du unten auf der Spieler- oder Clanseite eine Schaltfläche, die dich zur Clankriegsseite führt.&lt;/p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-flex-col hx-rounded-lg hx-border hx-py-4 hx-px-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-indigo-200 hx-bg-indigo-100 hx-text-indigo-900 dark:hx-border-indigo-200/30 dark:hx-bg-indigo-900/30 dark:hx-text-indigo-200">
-&lt;p class="hx-flex hx-items-center hx-font-medium">&lt;svg height=16px class="hx-inline-block hx-align-middle hx-mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>&lt;/svg>&lt;br>&lt;/p>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">&lt;p>Für Freundschaftskriege und reguläre Clankriege muss dein Clan ein öffentliches Kriegsprotokoll haben. Wenn dein Kriegsprotokoll privat ist, bitte deinen Anführer, die Claneinstellungen zu ändern. Für die Clankriegsliga ist ein öffentliches Kriegsprotokoll nicht erforderlich.&lt;/p>&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h2>Vergangene Kriege&lt;span class="hx-absolute -hx-mt-20" id="vergangene-kriege">&lt;/span>
-&lt;a href="#vergangene-kriege" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Die App bietet auch Details zu vergangenen Clankriegen. Klicke einfach auf einen Eintrag im Kriegsprotokoll, um sie zu sehen. Bitte beachte, dass einige Clankriege möglicherweise nicht von ClashKing aufgezeichnet wurden.&lt;/p></description></item><item><title>Clankriegsliga</title><link>https://warreport.app/about/de/docs/features/clan_war_league/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clan_war_league/</guid><description>
-&lt;p>Wenn ein Clankrieg zur Clankriegsliga gehört, findest du unten auf der Clankriegsseite eine Schaltfläche, die dich zur Clankriegsligaseite führt. Für weitere Informationen über einen Clan oder einen Spieler, klicke auf einen Eintrag in der Gruppen- oder Spielerliste.&lt;/p>
-&lt;h2>Vergangene Saison&lt;span class="hx-absolute -hx-mt-20" id="vergangene-saison">&lt;/span>
-&lt;a href="#vergangene-saison" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Die App bietet auch Details zu vergangenen Monaten der Clankriegsliga. Klicke einfach auf einen Eintrag im Kriegsprotokoll, um sie anzusehen. Bitte beachte, dass einige Monate möglicherweise nicht von ClashKing aufgezeichnet wurden.&lt;/p></description></item><item><title>Legenden-Liga</title><link>https://warreport.app/about/de/docs/features/legend_league/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/legend_league/</guid><description>
-&lt;p>Schaue dir Statistiken zur Legendenliga an, indem du auf die Schaltfläche oben rechts auf einer Spieler- oder Clanseite klickst. Die Daten der Legenden-Liga werden vom &lt;a href="https://invite.clashk.ing/" target="_blank" rel="noopener">ClashKing Discord-Bot&lt;/a> bereitgestellt, der eine große Datenbank mit den meisten Spielern der Legenden-Liga verwaltet. Es kann jedoch vorkommen, dass ein Spieler bei ClashKing noch nicht bekannt ist. Um einen Spieler zu dieser Datenbank hinzuzufügen, benutze bitte den Befehl &amp;lsquo;/legends search&amp;rsquo; im Chat meines &lt;a href="https://discord.gg/pEDjJgy" target="_blank" rel="noopener">Discord-Servers&lt;/a>.&lt;/p>
-&lt;p>
-&lt;img src="../legends_search.jpg" alt="Legends search" loading="lazy" />&lt;/p></description></item><item><title>Konto</title><link>https://warreport.app/about/de/docs/features/account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/account/</guid><description>
-&lt;p>Du kannst in den Einstellungen der App ein Konto erstellen. Mit einem Konto kannst du deine Lesezeichen und Einstellungen zwischen mehreren Geräten synchronisieren. Die App wird in der Zukunft um zusätzliche Funktionen erweitert werden.&lt;/p></description></item></channel></rss>
+&lt;p&gt;Spielerdetails, wie z.B. die Helden- und Truppenstufen, werden auf der Spielerseite angezeigt. Für zusätzliche Informationen klicke auf eine der Schaltflächen in der oberen rechten Ecke, um Seiten mit detaillierten Statistiken zu den letzten Clankriegen und der Legendenliga aufzurufen.&lt;/p&gt;
+&lt;h2&gt;Spieler suchen&lt;span class="hx:absolute hx:-mt-20" id="spieler-suchen"&gt;&lt;/span&gt;
+&lt;a href="#spieler-suchen" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Um einen Spieler zu suchen, klicke auf die Schaltfläche in der unteren rechten Ecke der Spielerseite. Du kannst Spieler mit deren Kürzel oder Namen suchen. Die Suche nach Namen basiert auf Daten, die vom ClashKing Discord-Bot bereitgestellt werden, und umfasst möglicherweise nicht alle Spieler.&lt;/p&gt;
+&lt;p&gt;Das Bild unten zeigt, wo du das Spielerkürzel findest. Klicke auf deine Erfahrung (1), um dein Profil zu öffnen (2), und kopiere dann das Kürzel (3) unter deinem Namen.&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="../player_tag.jpg" alt="Player tag" loading="lazy" /&gt;&lt;/p&gt;
+&lt;h2&gt;Spieler speichern&lt;span class="hx:absolute hx:-mt-20" id="spieler-speichern"&gt;&lt;/span&gt;
+&lt;a href="#spieler-speichern" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Setze ein Lesezeichen für deine Lieblingsspieler, indem du auf die Schaltfläche „Lesezeichen“ in der oberen rechten Ecke der Detailseite des Spielers klickst. Um ein Lesezeichen zu entfernen, klicke einfach erneut auf die Schaltfläche oder streiche den Spieler in deiner Lesezeichenliste nach links oder rechts. Du kannst deine Lesezeichen auch neu anordnen: Tippe auf ein beliebiges Element, halte es gedrückt und ziehe es dann an die gewünschte Position.&lt;/p&gt;
+&lt;h2&gt;Details&lt;span class="hx:absolute hx:-mt-20" id="details"&gt;&lt;/span&gt;
+&lt;a href="#details" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Legenden-Liga&lt;span class="hx:absolute hx:-mt-20" id="legenden-liga"&gt;&lt;/span&gt;
+&lt;a href="#legenden-liga" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Auf dieser Seite werden die Leistungen des Spielers in der &lt;a href="../legend_league"&gt;Legenden-Liga&lt;/a&gt; für die aktuelle und vergangene Saisons angezeigt.&lt;/p&gt;
+&lt;h3&gt;Angriffe&lt;span class="hx:absolute hx:-mt-20" id="angriffe"&gt;&lt;/span&gt;
+&lt;a href="#angriffe" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Diese Seite enthält eine vollständige Übersicht über alle Angriffe und Verteidigungen des Spielers in Clankriegen und CWL. Verwende den Filter oben, um Freundschaftskriege einzubeziehen oder auszuschließen.&lt;/p&gt;
+&lt;h3&gt;Statistiken&lt;span class="hx:absolute hx:-mt-20" id="statistiken"&gt;&lt;/span&gt;
+&lt;a href="#statistiken" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Seite Statistiken enthält aggregierte Leistungsstatistiken zu Kriegen und CWL für einen ausgewählten Zeitraum.&lt;/p&gt;
+&lt;h3&gt;Vorherige Clans&lt;span class="hx:absolute hx:-mt-20" id="vorherige-clans"&gt;&lt;/span&gt;
+&lt;a href="#vorherige-clans" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Diese Seite zeigt vorherige Clans, denen der Spieler angehört hat, sowie die Gesamtzeit, die er in jedem Clan verbracht hat.&lt;/p&gt;
+&lt;h3&gt;Erfolge&lt;span class="hx:absolute hx:-mt-20" id="erfolge"&gt;&lt;/span&gt;
+&lt;a href="#erfolge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Seite „Erfolge” zeigt den Fortschritt des Spielers bei allen Erfolgen im Spiel, geordnet nach Kategorien (Heimatdorf, Bauarbeiterbasis, Clanstadt).&lt;/p&gt;</description></item><item><title>Clans</title><link>https://warreport.app/about/de/docs/features/clans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clans/</guid><description>
+&lt;p&gt;Clan details, such as a list of all members and the number of wins, losses, and ties in clan wars, are displayed on the clan page. For additional information, click one of the buttons in the top-right corner to access pages with detailed statistics on recent Clan Wars and the Legends League.&lt;/p&gt;
+&lt;h2&gt;Clans suchen&lt;span class="hx:absolute hx:-mt-20" id="clans-suchen"&gt;&lt;/span&gt;
+&lt;a href="#clans-suchen" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Um einen Clan zu suchen, klicke auf die Schaltfläche in der unteren rechten Ecke der Clanseite. Du kannst Clans mit deren Kürzel oder Namen suchen.&lt;/p&gt;
+&lt;p&gt;Das Bild unten zeigt, wo du das Clankürzel findest. Klicke auf deine Erfahrung (1), um dein Profil zu öffnen (2), klicke dann auf deinen Clan (2), und kopiere dann das Kürzel (3) unter dem Namen deines Clans.&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="../clan_tag.jpg" alt="Clan tag" loading="lazy" /&gt;&lt;/p&gt;
+&lt;h2&gt;Clans speichern&lt;span class="hx:absolute hx:-mt-20" id="clans-speichern"&gt;&lt;/span&gt;
+&lt;a href="#clans-speichern" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Setze ein Lesezeichen für deine Lieblingsclans, indem du auf die Schaltfläche „Lesezeichen“ in der oberen rechten Ecke der Detailseite des Clans klickst. Um ein Lesezeichen zu entfernen, klicke einfach erneut auf die Schaltfläche oder streiche den Clan in deiner Lesezeichenliste nach links oder rechts. Du kannst deine Lesezeichen auch neu anordnen: Tippe auf ein beliebiges Element, halte es gedrückt und ziehe es dann an die gewünschte Position.&lt;/p&gt;
+&lt;h2&gt;Details&lt;span class="hx:absolute hx:-mt-20" id="details"&gt;&lt;/span&gt;
+&lt;a href="#details" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Kriegslog&lt;span class="hx:absolute hx:-mt-20" id="kriegslog"&gt;&lt;/span&gt;
+&lt;a href="#kriegslog" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Auf dieser Seite werden die Ergebnisse der &lt;a href="../clan_wars"&gt;Clankriege&lt;/a&gt; und der &lt;a href="../clan_war_league"&gt;CWL&lt;/a&gt; des Clans angezeigt.&lt;/p&gt;
+&lt;h3&gt;Statistiken&lt;span class="hx:absolute hx:-mt-20" id="statistiken"&gt;&lt;/span&gt;
+&lt;a href="#statistiken" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Seite Statistiken enthält aggregierte Leistungsstatistiken zu Kriegen und CWL für einen ausgewählten Zeitraum für den Clan und alle seine Mitglieder.&lt;/p&gt;
+&lt;h3&gt;Überfallwochenende&lt;span class="hx:absolute hx:-mt-20" id="überfallwochenende"&gt;&lt;/span&gt;
+&lt;a href="#%c3%bcberfallwochenende" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Auf dieser Seite wird die Leistung deines Clans in der &lt;a href="../clan_capital"&gt;Clanstadt&lt;/a&gt; verfolgt und detaillierte Statistiken für jedes Überfallwochenende angezeigt.&lt;/p&gt;</description></item><item><title>FAQ</title><link>https://warreport.app/about/de/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/faq/</guid><description>
+&lt;h2&gt;Warum gibt es keine Legendenliga-Statistiken für meinen Account?&lt;span class="hx:absolute hx:-mt-20" id="warum-gibt-es-keine-legendenliga-statistiken-für-meinen-account"&gt;&lt;/span&gt;
+&lt;a href="#warum-gibt-es-keine-legendenliga-statistiken-f%c3%bcr-meinen-account" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Die App verfolgt Spieler nur, während sie unter den Top 200 ihres Landes sind. Leider ist es mir nicht möglich, mehr Spieler zu verfolgen. Ich erziele mit der App keine Einnahmen, und eine Nachverfolgung aller Spieler im Spiel wäre mit erheblichen Kosten verbunden.&lt;/p&gt;
+&lt;h2&gt;Warum sind die Daten nicht auf dem neuesten Stand?&lt;span class="hx:absolute hx:-mt-20" id="warum-sind-die-daten-nicht-auf-dem-neuesten-stand"&gt;&lt;/span&gt;
+&lt;a href="#warum-sind-die-daten-nicht-auf-dem-neuesten-stand" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Die App ruft Daten von der Clash of Clans-API ab, die im Cache gespeichert sind. Dies kann zu kleinen Verzögerungen bei der Anzeige der neuesten Updates führen. Die folgende Tabelle zeigt die Caching-Dauer für API-Antworten.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Typ&lt;/th&gt;
+&lt;th&gt;Caching-Zeit&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Spieler&lt;/td&gt;
+&lt;td&gt;1 Minute&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Clans&lt;/td&gt;
+&lt;td&gt;2 Minuten&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Clankriege&lt;/td&gt;
+&lt;td&gt;2 Minuten&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Clan-Kriegsliga&lt;/td&gt;
+&lt;td&gt;10 Minuten&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Kann mein Konto wegen der Nutzung dieser App gesperrt werden?&lt;span class="hx:absolute hx:-mt-20" id="kann-mein-konto-wegen-der-nutzung-dieser-app-gesperrt-werden"&gt;&lt;/span&gt;
+&lt;a href="#kann-mein-konto-wegen-der-nutzung-dieser-app-gesperrt-werden" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Nein. Die App verwendet nur Daten, die uns von Supercell zur Verfügung gestellt werden. Für weitere Informationen besuche bitte &lt;a href="https://developer.clashofclans.com"target="_blank" rel="noopener"&gt;https://developer.clashofclans.com&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Ist diese App von Supercell?&lt;span class="hx:absolute hx:-mt-20" id="ist-diese-app-von-supercell"&gt;&lt;/span&gt;
+&lt;a href="#ist-diese-app-von-supercell" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dieses Material ist inoffiziell und wird nicht von Supercell gebilligt. Weitere Informationen findest du in Supercells Richtlinien für Fan-Inhalte: &lt;a href="https://supercell.com/fan-content-policy"target="_blank" rel="noopener"&gt;https://supercell.com/fan-content-policy&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Wie kann ich dich unterstützen?&lt;span class="hx:absolute hx:-mt-20" id="wie-kann-ich-dich-unterstützen"&gt;&lt;/span&gt;
+&lt;a href="#wie-kann-ich-dich-unterst%c3%bctzen" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Ich habe leider noch keinen Creator Code. Du kannst mich aber gerne unterstützen, indem du mir bei der &lt;a href="https://crowdin.com/project/war-report"target="_blank" rel="noopener"&gt;Übersetzung&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt; der App in weitere Sprachen hilfst. Über eine positive Bewertung bei &lt;a href="https://play.google.com/store/apps/details?id=de.colinschmale.warreport"target="_blank" rel="noopener"&gt;Google Play&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt; oder im &lt;a href="https://apps.apple.com/us/app/war-report-for-clash-of-clans/id1669237796"target="_blank" rel="noopener"&gt;App Store&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt; freue ich mich ebenfalls sehr. Alternativ kannst du die App auch einfach deinem Clan weiterempfehlen, wenn sie dir gefällt.&lt;/p&gt;</description></item><item><title>Clankriege</title><link>https://warreport.app/about/de/docs/features/clan_wars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clan_wars/</guid><description>
+&lt;p&gt;Unter „Clankriege“ werden die laufenden Clankriege der von dir mit Lesezeichen versehenen Spieler und Clans angezeigt. Verwende den Filter in der oberen rechten Ecke, wenn du nur bestimmte Kriegstypen sehen möchten. Du kannst auch Clans oder Spieler entfernen, von denen du keine laufenden Kriege sehen möchtest. Wenn du viele Lesezeichen hast, kann das Laden der Liste länger dauern. Verwende daher den Filter, um die Kriege auszuwählen, an denen du interessiert bist. Sobald sich ein Spieler oder Clan im Krieg befindet, findest du unten auf der Spieler- oder Clanseite eine Schaltfläche, die dich zur Clankriegsseite führt.&lt;/p&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-purple-200 hx:bg-purple-100 hx:text-purple-900 hx:dark:border-purple-200/30 hx:dark:bg-purple-900/30 hx:dark:text-purple-200"&gt;
+&lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Für Freundschaftskriege und reguläre Clankriege muss dein Clan ein öffentliches Kriegsprotokoll haben. Wenn dein Kriegsprotokoll privat ist, bitte deinen Anführer, die Claneinstellungen zu ändern. Für die Clankriegsliga ist ein öffentliches Kriegsprotokoll nicht erforderlich.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Vergangene Kriege&lt;span class="hx:absolute hx:-mt-20" id="vergangene-kriege"&gt;&lt;/span&gt;
+&lt;a href="#vergangene-kriege" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Die App bietet auch Details zu vergangenen Clankriegen. Klicke einfach auf einen Eintrag im Kriegsprotokoll, um sie zu sehen. Diese Daten werden vom ClashKing Discord-Bot bereitgestellt. Bitte beachte, dass einige Clankriege möglicherweise nicht von ClashKing aufgezeichnet wurden.&lt;/p&gt;</description></item><item><title>Clankriegsliga</title><link>https://warreport.app/about/de/docs/features/clan_war_league/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clan_war_league/</guid><description>
+&lt;p&gt;Wenn ein Clankrieg zur Clankriegsliga gehört, findest du unten auf der Clankriegsseite eine Schaltfläche, die dich zur Clankriegsligaseite führt. Für weitere Informationen über einen Clan oder einen Spieler, klicke auf einen Eintrag in der Gruppen- oder Spielerliste.&lt;/p&gt;
+&lt;h2&gt;Vergangene Saison&lt;span class="hx:absolute hx:-mt-20" id="vergangene-saison"&gt;&lt;/span&gt;
+&lt;a href="#vergangene-saison" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Die App bietet auch Details zu vergangenen Monaten der Clankriegsliga. Klicke einfach auf einen Eintrag im Kriegsprotokoll, um sie anzusehen. Diese Daten werden vom ClashKing Discord-Bot bereitgestellt. Bitte beachte, dass einige Monate möglicherweise nicht von ClashKing aufgezeichnet wurden.&lt;/p&gt;</description></item><item><title>Clanstadt</title><link>https://warreport.app/about/de/docs/features/clan_capital/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/clan_capital/</guid><description>
+&lt;p&gt;Klicke auf die Menüschaltfläche in der oberen rechten Ecke der Clan-Seite, um zu diesen Informationen zu gelangen. Hier wird die Leistung deines Clans in der Clanstadt verfolgt und detaillierte Statistiken für jedes Überfallwochenende angezeigt. Auf der Registerkarte „Zusammenfassung“ werden allgemeine Statistiken und die Angriffe deiner Mitglieder angezeigt. Wechsle zur Registerkarte „Angriffe“ oder „Verteidigungen“, um Details zur Leistung von Clans und Distrikten anzuzeigen.&lt;/p&gt;</description></item><item><title>Legenden-Liga</title><link>https://warreport.app/about/de/docs/features/legend_league/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/legend_league/</guid><description>
+&lt;p&gt;Klicke auf die Schaltfläche in der oberen rechten Ecke der Clan-Seite, um zu diesen Informationen zu gelangen. Auf dieser Seite werden die Leistungen des Spielers in der Legenden-Liga für die aktuelle und vergangene Saisons angezeigt. Sie zeigt die pro Tag gewonnenen und verlorenen Trophäen sowie ein Diagramm, das den Verlauf der Trophäen im Laufe des Monats visualisiert.&lt;/p&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-purple-200 hx:bg-purple-100 hx:text-purple-900 hx:dark:border-purple-200/30 hx:dark:bg-purple-900/30 hx:dark:text-purple-200"&gt;
+&lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Die Informationen enthalten möglicherweise nicht alle Angriffe und Verteidigungen. Die App verfolgt Spieler nur, während sie unter den Top 200 ihres Landes sind.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>Konto</title><link>https://warreport.app/about/de/docs/features/account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/docs/features/account/</guid><description>
+&lt;p&gt;Durch die Erstellung eines Kontos in den App-Einstellungen werden zusätzliche Funktionen freigeschaltet.&lt;/p&gt;
+&lt;h2&gt;Geräteübergreifende Synchronisierung&lt;span class="hx:absolute hx:-mt-20" id="geräteübergreifende-synchronisierung"&gt;&lt;/span&gt;
+&lt;a href="#ger%c3%a4te%c3%bcbergreifende-synchronisierung" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Deine mit Lesezeichen versehenen Spieler, Clans und andere Einstellungen werden automatisch auf allen Geräten synchronisiert, auf denen du angemeldet bist. So kannst du ganz einfach zwischen deinem Smartphone und Tablet wechseln, ohne den Überblick über deine Lieblingsclans und -spieler zu verlieren.&lt;/p&gt;
+&lt;h2&gt;Benachrichtigungen&lt;span class="hx:absolute hx:-mt-20" id="benachrichtigungen"&gt;&lt;/span&gt;
+&lt;a href="#benachrichtigungen" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Konten ermöglichen Push-Benachrichtigungen, um dich über wichtige Clan-Aktivitäten auf dem Laufenden zu halten. Du erhältst beispielsweise eine Benachrichtigung, wenn du noch im Krieg angreifen musst, sodass du keine Gelegenheit verpasst, deinen Beitrag zu leisten. Die Benachrichtigungseinstellungen können in den App-Einstellungen an deine Bedürfnisse angepasst werden.&lt;/p&gt;</description></item></channel></rss>

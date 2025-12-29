@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>War Report – Markdown</title>
+    <link>http://localhost:1313/about/tags/markdown/</link>
+    <description>Recent content in Markdown on War Report</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/about/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

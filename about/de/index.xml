@@ -1,1 +1,192 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>War Report – War Report für Clash of Clans</title><link>https://warreport.app/about/de/</link><description>Recent content in War Report für Clash of Clans on War Report</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://warreport.app/about/de/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>War Report – War Report für Clash of Clans</title>
+    <link>http://localhost:1313/about/de/</link>
+    <description>Recent content in War Report für Clash of Clans on War Report</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	  <atom:link href="http://localhost:1313/about/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+    <item>
+      <title>Begriffe und Abkürzungen im Spiel</title>
+      <link>http://localhost:1313/about/de/blog/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/de/blog/glossary/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Eine Sammlung häufig verwendeter Begriffe und Abkürzungen aus Clash of Clans. Sie dient als schnelle Referenz für neue und erfahrene Spieler.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Begriff&lt;/th&gt;
+          &lt;th&gt;Definition&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Alt&lt;/td&gt;
+          &lt;td&gt;Zweit- oder Nebenaccount eines Spielers.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;BH&lt;/td&gt;
+          &lt;td&gt;Bauarbeiterbasis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CC&lt;/td&gt;
+          &lt;td&gt;Clanburg.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CG&lt;/td&gt;
+          &lt;td&gt;Clanspiele&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Charge&lt;/td&gt;
+          &lt;td&gt;Ein oder mehrere Helden werden tief ins Dorf geschickt, um wichtige Verteidigungen oder die Clanburg zu zerstören&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Coco Loon&lt;/td&gt;
+          &lt;td&gt;Einzelner Ballon, der vorausgeschickt wird, um zielsuchende Luftminen vor den Haupt-Lufteinheiten oder Heilern auszulösen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CW&lt;/td&gt;
+          &lt;td&gt;Clankrieg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CWL&lt;/td&gt;
+          &lt;td&gt;Clankriegsliga&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DE&lt;/td&gt;
+          &lt;td&gt;Dunkles Elixier&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dip&lt;/td&gt;
+          &lt;td&gt;Angriff eines höheren Rathaus-Levels auf ein niedrigeres Rathaus im Krieg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DPS&lt;/td&gt;
+          &lt;td&gt;Schaden pro Sekunde&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Engineering&lt;/td&gt;
+          &lt;td&gt;Bewusst niedrig halten oder Auslassen von Verteidigungen, um das Kriegsgewicht zu senken, während die Offensive verbessert wird&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;EQ&lt;/td&gt;
+          &lt;td&gt;Erdbeben-Zauber&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;F2P&lt;/td&gt;
+          &lt;td&gt;Free-to-play-Spieler, der kein echtes Geld ausgibt&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farm (Defence)&lt;/td&gt;
+          &lt;td&gt;Gruppe identischer Verteidigungen, z. B. Tesla-Farm oder X-Bogen-Farm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farm(ing)&lt;/td&gt;
+          &lt;td&gt;Spielen mit dem Hauptziel, Ressourcen statt Trophäen zu sammeln&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;FC&lt;/td&gt;
+          &lt;td&gt;Freundschaftsherausforderung&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Funnel(ing)&lt;/td&gt;
+          &lt;td&gt;Entfernen äußerer Gebäude, damit Truppen oder Helden in die Basis laufen statt außen herum&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gemmer&lt;/td&gt;
+          &lt;td&gt;Spieler, der durch den Einsatz von echtem Geld (Juwelen) schnell voranschreitet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Global Chat&lt;/td&gt;
+          &lt;td&gt;Entfernte weltweite Chatfunktion, die früher zufällige Spieler verband und bei der Clansuche half.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HP&lt;/td&gt;
+          &lt;td&gt;Trefferpunkte; gesamte Lebenspunkte einer Einheit oder eines Gebäudes.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Island&lt;/td&gt;
+          &lt;td&gt;Verteidigung, die von freiem Raum umgeben ist, sodass Truppen sie nicht erreichen können.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kill Squad&lt;/td&gt;
+          &lt;td&gt;Kleine Gruppe aus Truppen und Helden, die zu Beginn eines Angriffs gegnerische Königin, Clanburg oder Schlüsselverteidigungen ausschaltet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mirror&lt;/td&gt;
+          &lt;td&gt;Angriff auf die gegnerische Basis mit derselben Kartenposition wie die eigene im Krieg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nerf&lt;/td&gt;
+          &lt;td&gt;Balance-Änderung, die eine Einheit, einen Zauber oder eine Verteidigung schwächer macht&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Push&lt;/td&gt;
+          &lt;td&gt;Angreifen, um Trophäen zu gewinnen und in den Ligen aufzusteigen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rushing&lt;/td&gt;
+          &lt;td&gt;Aufwerten des Rathauses, bevor Helden, Truppen, Gebäude und Mauern vollständig ausgebaut sind&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scout&lt;/td&gt;
+          &lt;td&gt;Angriff, der genutzt wird, um Fallen, Laufwege und Clanburg-Truppen einer Basis aufzudecken&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Skelly Donut&lt;/td&gt;
+          &lt;td&gt;Einsatz von Skelett- oder Fledermauszaubern mit Wut und Unsichtbarkeit, um Verteidigungen und die Clanburg im Kern der Basis zu zerstören&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Swag&lt;/td&gt;
+          &lt;td&gt;Absichtliches Einsetzen unnötiger Zauber oder Truppen am Ende eines sicheren 3-Sterne-Angriffs, um Überlegenheit zu zeigen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tag&lt;/td&gt;
+          &lt;td&gt;Eindeutige ID, die mit &lt;code&gt;#&lt;/code&gt; beginnt und einen bestimmten Clan oder Spieler identifiziert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Teaser Base&lt;/td&gt;
+          &lt;td&gt;Basis, die das Rathaus oder hohen Wert offen zeigt, um Angreifer in eine fallenreiche Seite zu locken&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TH&lt;/td&gt;
+          &lt;td&gt;Rathaus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tile&lt;/td&gt;
+          &lt;td&gt;Grundlegende Distanzeinheit für Reichweiten und Gebäudegrößen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Troll Tesla&lt;/td&gt;
+          &lt;td&gt;Versteckte Tesla an einer unerwarteten Ecke oder außerhalb, um Zeit zu verschwenden oder Angreifer zu überraschen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;WB&lt;/td&gt;
+          &lt;td&gt;Mauerbrecher&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Walk&lt;/td&gt;
+          &lt;td&gt;Königin und/oder Großer Wächter mit Heilern räumen überwiegend äußere Gebäude und erzeugen einen Funnel&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;War Weight&lt;/td&gt;
+          &lt;td&gt;„Stärkewert“ einer Basis für das Kriegs-Matchmaking, bestimmt durch Verteidigungen, Helden und Truppen&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

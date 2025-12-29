@@ -1,0 +1,193 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>War Report – Blog</title>
+    <link>http://localhost:1313/about/blog/guides/</link>
+    <description>Recent content in Blog on War Report</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/about/blog/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Terms and abbreviations in the game</title>
+      <link>http://localhost:1313/about/blog/guides/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/blog/guides/glossary/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Term&lt;/th&gt;
+          &lt;th&gt;Definition&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Alt&lt;/td&gt;
+          &lt;td&gt;Alternate account of a player&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;BH&lt;/td&gt;
+          &lt;td&gt;Builder Hall&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CC&lt;/td&gt;
+          &lt;td&gt;Clan Castle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CG&lt;/td&gt;
+          &lt;td&gt;Clan Games&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Charge&lt;/td&gt;
+          &lt;td&gt;One or more heroes are sent deep into the base to destroy key defenses or cc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Coco loon&lt;/td&gt;
+          &lt;td&gt;Single Balloon sent ahead to trigger seeking air mines before main air troops or Healers&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CW&lt;/td&gt;
+          &lt;td&gt;Clan War&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CWL&lt;/td&gt;
+          &lt;td&gt;Clan War League&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DE&lt;/td&gt;
+          &lt;td&gt;Dark Elixir&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dip&lt;/td&gt;
+          &lt;td&gt;Higher Town Hall attacking a lower Town Hall in war&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DPS&lt;/td&gt;
+          &lt;td&gt;Damage per second&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Engineering&lt;/td&gt;
+          &lt;td&gt;Keeping some defenses low or missing to reduce war weight while upgrading offense&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;EQ&lt;/td&gt;
+          &lt;td&gt;Earthquake&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;F2P&lt;/td&gt;
+          &lt;td&gt;Free‑to‑play player who spends no real money&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farm (defence)&lt;/td&gt;
+          &lt;td&gt;Cluster of identical defenses such as Tesla farm or X‑Bow farm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farm(ing)&lt;/td&gt;
+          &lt;td&gt;Playing mainly to gain resources instead of trophies&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;FC&lt;/td&gt;
+          &lt;td&gt;Friendly Challenge&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Funnel(ling)&lt;/td&gt;
+          &lt;td&gt;Removing outside buildings so troops or heroes walk into the base instead of around it&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gemmer&lt;/td&gt;
+          &lt;td&gt;Player who progresses quickly by spending real money (gems)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Global chat&lt;/td&gt;
+          &lt;td&gt;Removed worldwide chat channel that previously matched random players and helped find clans&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HP&lt;/td&gt;
+          &lt;td&gt;Hit points; total health of a troop or building&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Island&lt;/td&gt;
+          &lt;td&gt;Defense surrounded by empty space so troops can&amp;rsquo;t reach it&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kill squad&lt;/td&gt;
+          &lt;td&gt;Small group of troops and heroes used to remove enemy Queen, Clan Castle, or key defenses at the beginning of an attack&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mirror&lt;/td&gt;
+          &lt;td&gt;Attacking the enemy base with the same map position number as your own in war&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nerf&lt;/td&gt;
+          &lt;td&gt;Balance change that makes a troop, spell, or defense weaker&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Push&lt;/td&gt;
+          &lt;td&gt;Attacking to gain trophies and climb leagues&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rushing&lt;/td&gt;
+          &lt;td&gt;Upgrading the Town Hall before heroes, troops, buildings and walls are fully upgraded&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Scout&lt;/td&gt;
+          &lt;td&gt;Attack used to reveal traps, pathing, and CC troops of a base&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Skelly Donut&lt;/td&gt;
+          &lt;td&gt;Skeleton or bat spells with rage and invisibility to destroy multiple defenses and clan castle in the core of the base&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Swag&lt;/td&gt;
+          &lt;td&gt;Dropping unnecessary spells/troops at the end of a guaranteed 3‑star to show overkill&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tag&lt;/td&gt;
+          &lt;td&gt;Unique ID starting with &lt;code&gt;#&lt;/code&gt; used to identify a specific clan or player&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Teaser base&lt;/td&gt;
+          &lt;td&gt;Base that exposes the Town Hall or major value to “bait” attackers into a trap‑heavy side&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TH&lt;/td&gt;
+          &lt;td&gt;Town Hall&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tile&lt;/td&gt;
+          &lt;td&gt;Basic distance unit used for ranges and building sizes&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Troll Tesla&lt;/td&gt;
+          &lt;td&gt;Hidden Tesla placed in an unexpected corner or outside tile to waste time or surprise attackers&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;WB&lt;/td&gt;
+          &lt;td&gt;Wall Breaker&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Walk&lt;/td&gt;
+          &lt;td&gt;Queen and / or Grand Warden with Healers clearing mostly outside buildings and creating a funnel&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;War weight&lt;/td&gt;
+          &lt;td&gt;”Strength” value of a base used for war matchmaking, driven by defenses, heroes, and troops&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
