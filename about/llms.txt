@@ -1,6 +1,6 @@
 # War Report
 
-> <no value>
+> 
 
 
 ## Documentation
@@ -22,14 +22,13 @@ Cross-Device Sync Your …
 - [How are Raid Weekend rewards calculated?](https://warreport.app/about/blog/raid_weekend_rewards/): Each destroyed district adds a reward based on its Capital Hall or District Hall level. The …
 - [How are Clan War League medals calculated?](https://warreport.app/about/blog/clan_war_league_medals/): Medals from Clan War Leagues are split into base medals, which every roster player can earn, and …
 
-
 ## Root Pages
-- [](https://warreport.app/about/discord/): Join my Discord server for support &amp; giveaways.
+- [](https://warreport.app/about/discord/): Join my Discord server for support and giveaways.
 - [Contact](https://warreport.app/about/contact/): Colin SchmaleSülldorfer Mühlenweg 34
 22589 Hamburg
 Germany Emailsupport@warreportmail.app
 - [Privacy Policy](https://warreport.app/about/privacy_policy/): Scope This data protection declaration is intended to inform the users of this app about the type, …
 
 ---
-Generated on 2026-01-01 15:25:39 UTC
+Generated on 2026-04-06 11:14:25 UTC
 Site: https://warreport.app/about/

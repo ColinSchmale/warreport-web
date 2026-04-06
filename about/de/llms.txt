@@ -1,6 +1,6 @@
 # War Report
 
-> <no value>
+> 
 
 
 ## Dokumentation
@@ -21,7 +21,6 @@
 - [Wie berechnet man die Belohnungen für das Überfallwochenende?](https://warreport.app/about/de/blog/raid_weekend_rewards/): Jeder zerstörte Bezirk bringt eine Belohnung, die sich nach dem Level des Stadtrathauses bzw. des …
 - [Wie berechnet man die Medaillen für die Clankriegsliga?](https://warreport.app/about/de/blog/clan_war_league_medals/): Medaillen aus der Clankriegsliga werden in Basismedaillen, die jeder Spieler im Kader verdienen …
 
-
 ## Root Pages
 - [](https://warreport.app/about/de/discord/): Erhalte Hilfe zur App und nimm an Gewinnspielen auf meinem Discord-Server teil.
 - [Contact](https://warreport.app/about/de/contact/): Colin SchmaleSülldorfer Mühlenweg 34
@@ -30,5 +29,5 @@ Deutschland E-Mailsupport@warreportmail.app
 - [Privacy Policy](https://warreport.app/about/de/privacy_policy/): Umfang Diese Datenschutzerklärung soll die Nutzer dieser App über Art, Umfang und Zweck der Erhebung …
 
 ---
-Generated on 2026-01-01 15:25:40 UTC
+Generated on 2026-04-06 11:14:25 UTC
 Site: https://warreport.app/about/

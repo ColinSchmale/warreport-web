@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>War Report – Guide</title><link>https://warreport.app/about/tags/guide/</link><description>Recent content in Guide on War Report</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://warreport.app/about/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Glossary</title><link>https://warreport.app/about/blog/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/blog/glossary/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>War Report – Guide</title><link>https://warreport.app/about/tags/guide/</link><description>Recent content in Guide on War Report</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>support@warreport.app (Colin Schmale)</managingEditor><webMaster>support@warreport.app (Colin Schmale)</webMaster><atom:link href="https://warreport.app/about/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Glossary</title><link>https://warreport.app/about/blog/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/blog/glossary/</guid><description>
 &lt;p&gt;A collection of frequently used Clash of Clans terms and abbreviations. It serves as a quick reference for both new and experienced players.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -177,7 +177,7 @@
 &lt;td&gt;”Strength” value of a base used for war matchmaking, driven by defenses, heroes, and troops&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Events</title><link>https://warreport.app/about/blog/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/blog/events/</guid><description>
+&lt;/table&gt;</description></item><item><title>Events</title><link>https://warreport.app/about/blog/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/blog/events/</guid><description>
 &lt;p&gt;The following table provides an overview of the most important recurring events in Clash of Clans and their typical dates and times in UTC.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -224,7 +224,7 @@
 &lt;td&gt;Offers reset every Tuesday (8:00AM UTC)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>How are Raid Weekend rewards calculated?</title><link>https://warreport.app/about/blog/raid_weekend_rewards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/blog/raid_weekend_rewards/</guid><description>
+&lt;/table&gt;</description></item><item><title>How are Raid Weekend rewards calculated?</title><link>https://warreport.app/about/blog/raid_weekend_rewards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/blog/raid_weekend_rewards/</guid><description>
 &lt;p&gt;Each destroyed district adds a reward based on its Capital Hall or District Hall level. The &lt;strong&gt;offensive&lt;/strong&gt; reward can be calculated by adding up the rewards for completely destroyed districts, dividing this value by the number of attacks, and multiplying it by 6.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -302,7 +302,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Too difficult? Let War Report do the math for you.&lt;/p&gt;</description></item><item><title>How are Clan War League medals calculated?</title><link>https://warreport.app/about/blog/clan_war_league_medals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/blog/clan_war_league_medals/</guid><description>
+&lt;p&gt;Too difficult? Let War Report do the math for you.&lt;/p&gt;</description></item><item><title>How are Clan War League medals calculated?</title><link>https://warreport.app/about/blog/clan_war_league_medals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/blog/clan_war_league_medals/</guid><description>
 &lt;p&gt;Medals from Clan War Leagues are split into base medals, which every roster player can earn, and bonus medals, which leaders can award at the end of the week.&lt;/p&gt;
 &lt;p&gt;Base medals depend on the league tier, the clan’s final placement, and the stars a player earns. Each player receives a percentage of the clan’s maximum medal payout based on their total stars across the 7 wars.&lt;/p&gt;
 &lt;h2&gt;Medals for clan position&lt;span class="hx:absolute hx:-mt-20" id="medals-for-clan-position"&gt;&lt;/span&gt;

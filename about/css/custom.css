@@ -1,8 +1,3 @@
-@font-face {
-    font-family: "clashRegular";
-    src: url("../fonts/Clash_Regular.otf");
-}
-
 :root {
     --navbar-height: 5rem;
     --primary-hue: 46deg;
@@ -10,7 +5,7 @@
 }
 
 html.light {
-  --primary-lightness: 40%;
+    --primary-lightness: 40%;
 }
 
 .hx\:text-\[color\:hsl\(var\(--primary-hue\)\,100\%\,50\%\)\] {
@@ -18,24 +13,24 @@ html.light {
 }
 
 html.light .hextra-scrollbar a {
-  color: var(--hx-color-slate-900);
+    color: var(--hx-color-slate-900);
 }
 
 :root {
-  --hx-text-xs--line-height: 1.5;
-  --hx-text-sm--line-height: 1.5;
-  --hx-text-base--line-height: 1.5;
-  --hx-text-lg--line-height: 1.5;
-  --hx-text-xl--line-height: 1.5;
-  --hx-text-2xl--line-height: 1.5;
-  --hx-text-3xl--line-height: 1.5;
-  --hx-text-4xl--line-height: 1.5;
-  --hx-text-5xl--line-height: 1.5;
+    --hx-text-xs--line-height: 1.5;
+    --hx-text-sm--line-height: 1.5;
+    --hx-text-base--line-height: 1.5;
+    --hx-text-lg--line-height: 1.5;
+    --hx-text-xl--line-height: 1.5;
+    --hx-text-2xl--line-height: 1.5;
+    --hx-text-3xl--line-height: 1.5;
+    --hx-text-4xl--line-height: 1.5;
+    --hx-text-5xl--line-height: 1.5;
 }
 
 :is(html[class~="dark"] *) {
     --primary-lightness: 65%;
-  }
+}
 
 .hx\:gap-8 {
     gap: 2rem;
@@ -60,8 +55,8 @@ html.light .hextra-scrollbar a {
     flex-wrap: wrap;
 }
 
-.hero-download-buttons  img {
-    height: 70px;             
+.hero-download-buttons img {
+    height: 70px;
     width: 180px;
     object-fit: contain;
     margin-top: 0;
@@ -70,7 +65,7 @@ html.light .hextra-scrollbar a {
     min-height: 70px;
 }
 
-.hero-download-buttons  a:nth-of-type(2) img {
+.hero-download-buttons a:nth-of-type(2) img {
     padding: 11.5px 11.5px;
 }
 

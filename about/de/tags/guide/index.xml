@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>War Report – Guide</title><link>https://warreport.app/about/de/tags/guide/</link><description>Recent content in Guide on War Report</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://warreport.app/about/de/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Glossar</title><link>https://warreport.app/about/de/blog/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/blog/glossary/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>War Report – Guide</title><link>https://warreport.app/about/de/tags/guide/</link><description>Recent content in Guide on War Report</description><generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>support@warreport.app (Colin Schmale)</managingEditor><webMaster>support@warreport.app (Colin Schmale)</webMaster><atom:link href="https://warreport.app/about/de/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Glossar</title><link>https://warreport.app/about/de/blog/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/de/blog/glossary/</guid><description>
 &lt;p&gt;Eine Sammlung häufig verwendeter Begriffe und Abkürzungen aus Clash of Clans. Sie dient als schnelle Referenz für neue und erfahrene Spieler.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -177,7 +177,7 @@
 &lt;td&gt;„Stärkewert“ einer Basis für das Kriegs-Matchmaking, bestimmt durch Verteidigungen, Helden und Truppen&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Events</title><link>https://warreport.app/about/de/blog/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/blog/events/</guid><description>
+&lt;/table&gt;</description></item><item><title>Events</title><link>https://warreport.app/about/de/blog/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/de/blog/events/</guid><description>
 &lt;p&gt;Die folgende Tabelle gibt einen Überblick über die wichtigsten regelmäßig wiederkehrenden Events in Clash of Clans sowie deren typische Termine und Zeiten in UTC.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -224,7 +224,7 @@
 &lt;td&gt;Angebote werden jeden Dienstag zurückgesetzt (08:00 Uhr UTC)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Wie berechnet man die Belohnungen für das Überfallwochenende?</title><link>https://warreport.app/about/de/blog/raid_weekend_rewards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/blog/raid_weekend_rewards/</guid><description>
+&lt;/table&gt;</description></item><item><title>Wie berechnet man die Belohnungen für das Überfallwochenende?</title><link>https://warreport.app/about/de/blog/raid_weekend_rewards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/de/blog/raid_weekend_rewards/</guid><description>
 &lt;p&gt;Jeder zerstörte Bezirk bringt eine Belohnung, die sich nach dem Level des Stadtrathauses bzw. des Bezirksrathauses richtet. Die &lt;strong&gt;offensive&lt;/strong&gt; Belohnung lässt sich berechnen, indem man die Belohnungen aller vollständig zerstörten Bezirke addiert, diesen Wert durch die Anzahl der Angriffe teilt und das Ergebnis mit 6 multipliziert.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -302,11 +302,11 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Zu kompliziert? Lass War Report die Berechnung für dich übernehmen.&lt;/p&gt;</description></item><item><title>Wie berechnet man die Medaillen für die Clankriegsliga?</title><link>https://warreport.app/about/de/blog/clan_war_league_medals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://warreport.app/about/de/blog/clan_war_league_medals/</guid><description>
+&lt;p&gt;Zu kompliziert? Lass War Report die Berechnung für dich übernehmen.&lt;/p&gt;</description></item><item><title>Wie berechnet man die Medaillen für die Clankriegsliga?</title><link>https://warreport.app/about/de/blog/clan_war_league_medals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/de/blog/clan_war_league_medals/</guid><description>
 &lt;p&gt;Medaillen aus der Clankriegsliga werden in Basismedaillen, die jeder Spieler im Kader verdienen kann, und Bonusmedaillen, die Anführer am Ende der Woche vergeben können, aufgeteilt.&lt;/p&gt;
 &lt;p&gt;Die Basismedaillen hängen von der Ligastufe, der finalen Platzierung des Clans und den von einem Spieler verdienten Sternen ab. Jeder Spieler erhält einen prozentualen Anteil der maximal möglichen Clanm​edaillen, basierend auf der Gesamtzahl seiner Sterne aus den 7 Kriegen.&lt;/p&gt;
 &lt;h2&gt;Medaillen nach Clanplatzierung&lt;span class="hx:absolute hx:-mt-20" id="medaillen-nach-clanplatzierung"&gt;&lt;/span&gt;
-&lt;a href="#medaillen-nach-clanplatzierung" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;a href="#medaillen-nach-clanplatzierung" class="subheading-anchor" aria-label="Permalink für diesen Abschnitt"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Liga&lt;/th&gt;
@@ -534,7 +534,7 @@
 &lt;/table&gt;
 &lt;p&gt;Bonusmedaillen sind direkt an die Ligastufe und die Anzahl der gewonnenen Kriege gekoppelt. Jede Liga verfügt über eine garantierte Anzahl an Bonusplätzen sowie einen festen Medaillenwert pro Bonus. Jeder gewonnene Krieg fügt zusätzlich einen weiteren Bonusplatz zu dieser garantierten Anzahl hinzu.&lt;/p&gt;
 &lt;h2&gt;Bonusmedaillen&lt;span class="hx:absolute hx:-mt-20" id="bonusmedaillen"&gt;&lt;/span&gt;
-&lt;a href="#bonusmedaillen" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;a href="#bonusmedaillen" class="subheading-anchor" aria-label="Permalink für diesen Abschnitt"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Liga&lt;/th&gt;
