@@ -1,0 +1,173 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <title>War Report Download</title>
+    <style>
+        :root {
+            color-scheme: light dark;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background:
+                radial-gradient(circle at top, rgba(59, 130, 246, 0.18), transparent 45%),
+                linear-gradient(180deg, #0f172a 0%, #111827 100%);
+        }
+
+        main {
+            width: min(560px, calc(100% - 32px));
+            padding: 32px 28px;
+            border-radius: 24px;
+            background: rgba(15, 23, 42, 0.82);
+            border: 1px solid rgba(148, 163, 184, 0.2);
+            box-shadow: 0 24px 80px rgba(15, 23, 42, 0.35);
+            backdrop-filter: blur(16px);
+        }
+
+        h1 {
+            margin: 0 0 12px;
+            font-size: clamp(1.75rem, 2vw + 1rem, 2.4rem);
+            line-height: 1.1;
+        }
+
+        p {
+            margin: 0;
+            line-height: 1.6;
+            color: #cbd5e1;
+        }
+
+        .status {
+            margin-top: 14px;
+            font-size: 0.95rem;
+            color: #93c5fd;
+        }
+
+        .links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 12px;
+            margin-top: 24px;
+        }
+
+        .links a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 48px;
+            padding: 0 16px;
+            border-radius: 999px;
+            text-decoration: none;
+            font-weight: 600;
+            color: #eff6ff;
+            background: linear-gradient(135deg, #2563eb, #1d4ed8);
+        }
+
+        .links a.secondary {
+            color: #dbeafe;
+            background: rgba(59, 130, 246, 0.14);
+            border: 1px solid rgba(96, 165, 250, 0.28);
+        }
+    </style>
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=https://warreport.app">
+    </noscript>
+    <script type="text/javascript">
+        (function () {
+            var targets = {
+                android: 'https://play.google.com/store/apps/details?id=de.colinschmale.warreport&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1',
+                ios: 'https://apps.apple.com/us/app/war-report-for-clash-of-clans/id1669237796?itsct=apps_box_badge&itscg=30200',
+                web: 'https://warreport.app'
+            };
+
+            function normalizedOverride() {
+                var params = new URLSearchParams(window.location.search);
+                var target = params.get('target');
+
+                if (!target) {
+                    return null;
+                }
+
+                target = target.toLowerCase();
+                return Object.prototype.hasOwnProperty.call(targets, target) ? target : null;
+            }
+
+            function detectTarget() {
+                var override = normalizedOverride();
+
+                if (override) {
+                    return override;
+                }
+
+                var platformHint = '';
+                if (navigator.userAgentData && typeof navigator.userAgentData.platform === 'string') {
+                    platformHint = navigator.userAgentData.platform.toLowerCase();
+                }
+
+                if (platformHint.indexOf('android') !== -1) {
+                    return 'android';
+                }
+
+                if (platformHint.indexOf('ios') !== -1) {
+                    return 'ios';
+                }
+
+                var userAgent = (navigator.userAgent || '').toLowerCase();
+
+                if (userAgent.indexOf('android') !== -1) {
+                    return 'android';
+                }
+
+                if (/iphone|ipod|ipad/.test(userAgent)) {
+                    return 'ios';
+                }
+
+                if (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) {
+                    return 'ios';
+                }
+
+                return 'web';
+            }
+
+            function redirect() {
+                var destination = targets[detectTarget()] || targets.web;
+                window.location.replace(destination);
+            }
+
+            try {
+                redirect();
+            } catch (error) {
+                window.location.replace(targets.web);
+            }
+        })();
+    </script>
+</head>
+
+<body>
+    <main>
+        <h1>Redirecting...</h1>
+        <p>You can also use one of the links below.</p>
+        <div class="links">
+            <a
+                href="https://play.google.com/store/apps/details?id=de.colinschmale.warreport&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Google
+                Play</a>
+            <a
+                href="https://apps.apple.com/us/app/war-report-for-clash-of-clans/id1669237796?itsct=apps_box_badge&amp;itscg=30200">App
+                Store</a>
+            <a class="secondary" href="https://warreport.app">Open Web App</a>
+        </div>
+    </main>
+</body>
+
+</html>
