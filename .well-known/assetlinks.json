@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.colinschmale.warreport",
+      "sha256_cert_fingerprints": [
+        "C8:20:74:A0:9F:12:CF:66:6F:29:B0:BC:20:BD:9D:1E:3C:A2:A0:37:0D:5A:FF:6B:7F:3B:A6:DD:FF:76:7D:69"
+      ]
+    }
+  }
+]

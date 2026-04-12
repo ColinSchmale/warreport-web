@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "Y8LCMJQ3S6.de.colinschmale.warreport",
+        "paths": ["/clans/*", "/players/*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["Y8LCMJQ3S6.de.colinschmale.warreport"]
+  }
+}
