@@ -5,10 +5,14 @@
   <title>War Report</title>
   <script>
     (function () {
+      var appRoutes = ['/wars', '/clans', '/players', '/more'];
       var path = window.location.pathname;
       var search = window.location.search;
       var hash = window.location.hash;
-      if (path.startsWith('/clans/') || path.startsWith('/players/') || path.startsWith('/wars/') || path.startsWith('/more/')) {
+      var isAppRoute = appRoutes.some(function (route) {
+        return path === route || path.startsWith(route + '/');
+      });
+      if (isAppRoute) {
         window.location.replace('/?route=' + encodeURIComponent(path + search + hash));
       } else {
         window.location.replace('/');
