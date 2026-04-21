@@ -7,8 +7,9 @@
     (function () {
       var path = window.location.pathname;
       var search = window.location.search;
-      if (path.startsWith('/clans/') || path.startsWith('/players/')) {
-        window.location.replace('/#' + path + search);
+      var hash = window.location.hash;
+      if (path.startsWith('/clans/') || path.startsWith('/players/') || path.startsWith('/wars/') || path.startsWith('/more/')) {
+        window.location.replace('/?route=' + encodeURIComponent(path + search + hash));
       } else {
         window.location.replace('/');
       }
