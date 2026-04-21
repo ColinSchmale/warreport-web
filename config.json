@@ -16,5 +16,9 @@
     "clashKingConfig": {
         "limit": 100,
         "debounceTime": 0
-    }
+    },
+    "clanHistoryOptOutPlayerTags": [
+        "#YJRVYR2R",
+        "#Q22J99PLQ"
+    ]
 }
