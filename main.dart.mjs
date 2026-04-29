@@ -429,57 +429,59 @@ class CompiledApp {
       _1311: () => globalThis.Sentry.close(),
       _1312: (x0,x1) => x0.sendEnvelope(x1),
       _1315: () => globalThis.globalThis,
-      _1316: (x0,x1) => x0.createElement(x1),
-      _1317: (x0,x1) => x0.removeItem(x1),
-      _1318: (x0,x1) => x0.getItem(x1),
-      _1320: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
-      _1321: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
-      _1328: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
-      _1329: (x0,x1) => x0.canShare(x1),
-      _1330: (x0,x1) => x0.share(x1),
-      _1331: x0 => ({url: x0}),
-      _1341: () => globalThis.Notification.requestPermission(),
-      _1349: (x0,x1,x2) => x0.setItem(x1,x2),
-      _1366: x0 => globalThis.firebase_core.getApp(x0),
-      _1370: x0 => globalThis.firebase_messaging.getMessaging(x0),
-      _1372: (x0,x1) => globalThis.firebase_messaging.getToken(x0,x1),
-      _1374: (x0,x1) => globalThis.firebase_messaging.onMessage(x0,x1),
-      _1375: (x0,x1) => ({next: x0,error: x1}),
-      _1380: x0 => x0.title,
-      _1381: x0 => x0.body,
-      _1382: x0 => x0.image,
-      _1383: x0 => x0.messageId,
-      _1384: x0 => x0.collapseKey,
-      _1385: x0 => x0.fcmOptions,
-      _1386: x0 => x0.notification,
-      _1387: x0 => x0.data,
-      _1388: x0 => x0.from,
-      _1389: x0 => x0.analyticsLabel,
-      _1390: x0 => x0.link,
-      _1391: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1391(f,arguments.length,x0) }),
-      _1392: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1392(f,arguments.length,x0) }),
-      _1400: x0 => x0.apiKey,
-      _1402: x0 => x0.authDomain,
-      _1404: x0 => x0.databaseURL,
-      _1406: x0 => x0.projectId,
-      _1408: x0 => x0.storageBucket,
-      _1410: x0 => x0.messagingSenderId,
-      _1412: x0 => x0.measurementId,
-      _1414: x0 => x0.appId,
-      _1416: x0 => x0.name,
-      _1417: x0 => x0.options,
-      _1427: (x0,x1) => x0.key(x1),
-      _1428: (x0,x1,x2,x3,x4,x5,x6,x7) => x0.unwrapKey(x1,x2,x3,x4,x5,x6,x7),
-      _1429: (x0,x1,x2,x3,x4,x5) => x0.importKey(x1,x2,x3,x4,x5),
-      _1430: (x0,x1,x2,x3) => x0.generateKey(x1,x2,x3),
-      _1431: (x0,x1,x2,x3,x4) => x0.wrapKey(x1,x2,x3,x4),
-      _1432: (x0,x1,x2) => x0.exportKey(x1,x2),
-      _1433: (x0,x1) => x0.getRandomValues(x1),
-      _1434: (x0,x1,x2,x3) => x0.encrypt(x1,x2,x3),
-      _1435: (x0,x1,x2,x3) => x0.decrypt(x1,x2,x3),
-      _1436: () => globalThis.removeSplashFromWeb(),
-      _1438: Date.now,
-      _1439: secondsSinceEpoch => {
+      _1316: (x0,x1,x2) => x0.open(x1,x2),
+      _1317: x0 => x0.close(),
+      _1318: (x0,x1) => x0.createElement(x1),
+      _1319: (x0,x1) => x0.removeItem(x1),
+      _1320: (x0,x1) => x0.getItem(x1),
+      _1322: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
+      _1323: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
+      _1330: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
+      _1331: (x0,x1) => x0.canShare(x1),
+      _1332: (x0,x1) => x0.share(x1),
+      _1333: x0 => ({url: x0}),
+      _1343: () => globalThis.Notification.requestPermission(),
+      _1351: (x0,x1,x2) => x0.setItem(x1,x2),
+      _1368: x0 => globalThis.firebase_core.getApp(x0),
+      _1372: x0 => globalThis.firebase_messaging.getMessaging(x0),
+      _1374: (x0,x1) => globalThis.firebase_messaging.getToken(x0,x1),
+      _1376: (x0,x1) => globalThis.firebase_messaging.onMessage(x0,x1),
+      _1377: (x0,x1) => ({next: x0,error: x1}),
+      _1382: x0 => x0.title,
+      _1383: x0 => x0.body,
+      _1384: x0 => x0.image,
+      _1385: x0 => x0.messageId,
+      _1386: x0 => x0.collapseKey,
+      _1387: x0 => x0.fcmOptions,
+      _1388: x0 => x0.notification,
+      _1389: x0 => x0.data,
+      _1390: x0 => x0.from,
+      _1391: x0 => x0.analyticsLabel,
+      _1392: x0 => x0.link,
+      _1393: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1393(f,arguments.length,x0) }),
+      _1394: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1394(f,arguments.length,x0) }),
+      _1402: x0 => x0.apiKey,
+      _1404: x0 => x0.authDomain,
+      _1406: x0 => x0.databaseURL,
+      _1408: x0 => x0.projectId,
+      _1410: x0 => x0.storageBucket,
+      _1412: x0 => x0.messagingSenderId,
+      _1414: x0 => x0.measurementId,
+      _1416: x0 => x0.appId,
+      _1418: x0 => x0.name,
+      _1419: x0 => x0.options,
+      _1429: (x0,x1) => x0.key(x1),
+      _1430: (x0,x1,x2,x3,x4,x5,x6,x7) => x0.unwrapKey(x1,x2,x3,x4,x5,x6,x7),
+      _1431: (x0,x1,x2,x3,x4,x5) => x0.importKey(x1,x2,x3,x4,x5),
+      _1432: (x0,x1,x2,x3) => x0.generateKey(x1,x2,x3),
+      _1433: (x0,x1,x2,x3,x4) => x0.wrapKey(x1,x2,x3,x4),
+      _1434: (x0,x1,x2) => x0.exportKey(x1,x2),
+      _1435: (x0,x1) => x0.getRandomValues(x1),
+      _1436: (x0,x1,x2,x3) => x0.encrypt(x1,x2,x3),
+      _1437: (x0,x1,x2,x3) => x0.decrypt(x1,x2,x3),
+      _1438: () => globalThis.removeSplashFromWeb(),
+      _1440: Date.now,
+      _1441: secondsSinceEpoch => {
         const date = new Date(secondsSinceEpoch * 1000);
         const match = /\((.*)\)/.exec(date.toString());
         if (match == null) {
@@ -488,35 +490,35 @@ class CompiledApp {
         }
         return match[1];
       },
-      _1440: s => new Date(s * 1000).getTimezoneOffset() * 60,
-      _1441: s => {
+      _1442: s => new Date(s * 1000).getTimezoneOffset() * 60,
+      _1443: s => {
         if (!/^\s*[+-]?(?:Infinity|NaN|(?:\.\d+|\d+(?:\.\d*)?)(?:[eE][+-]?\d+)?)\s*$/.test(s)) {
           return NaN;
         }
         return parseFloat(s);
       },
-      _1442: () => new Error().stack,
-      _1443: () => typeof dartUseDateNowForTicks !== "undefined",
-      _1444: () => 1000 * performance.now(),
-      _1445: () => Date.now(),
-      _1446: () => {
+      _1444: () => new Error().stack,
+      _1445: () => typeof dartUseDateNowForTicks !== "undefined",
+      _1446: () => 1000 * performance.now(),
+      _1447: () => Date.now(),
+      _1448: () => {
         // On browsers return `globalThis.location.href`
         if (globalThis.location != null) {
           return globalThis.location.href;
         }
         return null;
       },
-      _1447: () => {
+      _1449: () => {
         return typeof process != "undefined" &&
                Object.prototype.toString.call(process) == "[object process]" &&
                process.platform == "win32"
       },
-      _1448: () => new WeakMap(),
-      _1449: (map, o) => map.get(o),
-      _1450: (map, o, v) => map.set(o, v),
-      _1451: (exn) => exn.toString(),
-      _1452: (exn) => exn.stack,
-      _1453: (exn) => {
+      _1450: () => new WeakMap(),
+      _1451: (map, o) => map.get(o),
+      _1452: (map, o, v) => map.set(o, v),
+      _1453: (exn) => exn.toString(),
+      _1454: (exn) => exn.stack,
+      _1455: (exn) => {
         let stackString = exn.toString();
         let frames = stackString.split('\n');
         let drop = 2;
@@ -525,95 +527,95 @@ class CompiledApp {
         }
         return frames.slice(drop).join('\n');
       },
-      _1454: x0 => new WeakRef(x0),
-      _1455: x0 => x0.deref(),
-      _1462: () => globalThis.WeakRef,
-      _1466: s => JSON.stringify(s),
-      _1467: s => printToConsole(s),
-      _1468: (o, p, r) => o.replaceAll(p, () => r),
-      _1469: (o, p, r) => o.replace(p, () => r),
-      _1470: Function.prototype.call.bind(String.prototype.toLowerCase),
-      _1471: s => s.toUpperCase(),
-      _1472: s => s.trim(),
-      _1473: s => s.trimLeft(),
-      _1474: s => s.trimRight(),
-      _1475: (string, times) => string.repeat(times),
-      _1476: Function.prototype.call.bind(String.prototype.indexOf),
-      _1477: (s, p, i) => s.lastIndexOf(p, i),
-      _1478: (string, token) => string.split(token),
-      _1479: Object.is,
-      _1482: (o, t) => typeof o === t,
-      _1483: (o, c) => o instanceof c,
-      _1484: o => Object.keys(o),
-      _1514: x0 => new Array(x0),
-      _1516: x0 => x0.length,
-      _1518: (x0,x1) => x0[x1],
-      _1519: (x0,x1,x2) => { x0[x1] = x2 },
-      _1522: (x0,x1,x2) => new DataView(x0,x1,x2),
-      _1524: x0 => new Int8Array(x0),
-      _1525: (x0,x1,x2) => new Uint8Array(x0,x1,x2),
-      _1527: x0 => new Uint8ClampedArray(x0),
-      _1529: x0 => new Int16Array(x0),
-      _1531: x0 => new Uint16Array(x0),
-      _1533: x0 => new Int32Array(x0),
-      _1535: x0 => new Uint32Array(x0),
-      _1537: x0 => new Float32Array(x0),
-      _1539: x0 => new Float64Array(x0),
-      _1563: x0 => x0.random(),
-      _1564: (x0,x1) => x0.getRandomValues(x1),
-      _1565: () => globalThis.crypto,
-      _1566: () => globalThis.Math,
-      _1579: (ms, c) =>
-      setTimeout(() => dartInstance.exports.$invokeCallback(c),ms),
-      _1580: (handle) => clearTimeout(handle),
+      _1456: x0 => new WeakRef(x0),
+      _1457: x0 => x0.deref(),
+      _1464: () => globalThis.WeakRef,
+      _1468: s => JSON.stringify(s),
+      _1469: s => printToConsole(s),
+      _1470: (o, p, r) => o.replaceAll(p, () => r),
+      _1471: (o, p, r) => o.replace(p, () => r),
+      _1472: Function.prototype.call.bind(String.prototype.toLowerCase),
+      _1473: s => s.toUpperCase(),
+      _1474: s => s.trim(),
+      _1475: s => s.trimLeft(),
+      _1476: s => s.trimRight(),
+      _1477: (string, times) => string.repeat(times),
+      _1478: Function.prototype.call.bind(String.prototype.indexOf),
+      _1479: (s, p, i) => s.lastIndexOf(p, i),
+      _1480: (string, token) => string.split(token),
+      _1481: Object.is,
+      _1484: (o, t) => typeof o === t,
+      _1485: (o, c) => o instanceof c,
+      _1486: o => Object.keys(o),
+      _1516: x0 => new Array(x0),
+      _1518: x0 => x0.length,
+      _1520: (x0,x1) => x0[x1],
+      _1521: (x0,x1,x2) => { x0[x1] = x2 },
+      _1524: (x0,x1,x2) => new DataView(x0,x1,x2),
+      _1526: x0 => new Int8Array(x0),
+      _1527: (x0,x1,x2) => new Uint8Array(x0,x1,x2),
+      _1529: x0 => new Uint8ClampedArray(x0),
+      _1531: x0 => new Int16Array(x0),
+      _1533: x0 => new Uint16Array(x0),
+      _1535: x0 => new Int32Array(x0),
+      _1537: x0 => new Uint32Array(x0),
+      _1539: x0 => new Float32Array(x0),
+      _1541: x0 => new Float64Array(x0),
+      _1565: x0 => x0.random(),
+      _1566: (x0,x1) => x0.getRandomValues(x1),
+      _1567: () => globalThis.crypto,
+      _1568: () => globalThis.Math,
       _1581: (ms, c) =>
+      setTimeout(() => dartInstance.exports.$invokeCallback(c),ms),
+      _1582: (handle) => clearTimeout(handle),
+      _1583: (ms, c) =>
       setInterval(() => dartInstance.exports.$invokeCallback(c), ms),
-      _1582: (handle) => clearInterval(handle),
-      _1583: (c) =>
+      _1584: (handle) => clearInterval(handle),
+      _1585: (c) =>
       queueMicrotask(() => dartInstance.exports.$invokeCallback(c)),
-      _1584: () => Date.now(),
-      _1585: (s, m) => {
+      _1586: () => Date.now(),
+      _1587: (s, m) => {
         try {
           return new RegExp(s, m);
         } catch (e) {
           return String(e);
         }
       },
-      _1586: (x0,x1) => x0.exec(x1),
-      _1587: (x0,x1) => x0.test(x1),
-      _1588: x0 => x0.pop(),
-      _1590: o => o === undefined,
-      _1592: o => typeof o === 'function' && o[jsWrappedDartFunctionSymbol] === true,
-      _1594: o => {
+      _1588: (x0,x1) => x0.exec(x1),
+      _1589: (x0,x1) => x0.test(x1),
+      _1590: x0 => x0.pop(),
+      _1592: o => o === undefined,
+      _1594: o => typeof o === 'function' && o[jsWrappedDartFunctionSymbol] === true,
+      _1596: o => {
         const proto = Object.getPrototypeOf(o);
         return proto === Object.prototype || proto === null;
       },
-      _1595: o => o instanceof RegExp,
-      _1596: (l, r) => l === r,
-      _1597: o => o,
-      _1598: o => o,
+      _1597: o => o instanceof RegExp,
+      _1598: (l, r) => l === r,
       _1599: o => o,
-      _1600: b => !!b,
-      _1601: o => o.length,
-      _1603: (o, i) => o[i],
-      _1604: f => f.dartFunction,
-      _1605: () => ({}),
-      _1606: () => [],
-      _1608: () => globalThis,
-      _1609: (constructor, args) => {
+      _1600: o => o,
+      _1601: o => o,
+      _1602: b => !!b,
+      _1603: o => o.length,
+      _1605: (o, i) => o[i],
+      _1606: f => f.dartFunction,
+      _1607: () => ({}),
+      _1608: () => [],
+      _1610: () => globalThis,
+      _1611: (constructor, args) => {
         const factoryFunction = constructor.bind.apply(
             constructor, [null, ...args]);
         return new factoryFunction();
       },
-      _1610: (o, p) => p in o,
-      _1611: (o, p) => o[p],
-      _1612: (o, p, v) => o[p] = v,
-      _1613: (o, m, a) => o[m].apply(o, a),
-      _1615: o => String(o),
-      _1616: (p, s, f) => p.then(s, (e) => f(e, e === undefined)),
-      _1617: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1617(f,arguments.length,x0) }),
-      _1618: (module,f) => finalizeWrapper(f, function(x0,x1) { return module.exports._1618(f,arguments.length,x0,x1) }),
-      _1619: o => {
+      _1612: (o, p) => p in o,
+      _1613: (o, p) => o[p],
+      _1614: (o, p, v) => o[p] = v,
+      _1615: (o, m, a) => o[m].apply(o, a),
+      _1617: o => String(o),
+      _1618: (p, s, f) => p.then(s, (e) => f(e, e === undefined)),
+      _1619: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1619(f,arguments.length,x0) }),
+      _1620: (module,f) => finalizeWrapper(f, function(x0,x1) { return module.exports._1620(f,arguments.length,x0,x1) }),
+      _1621: o => {
         if (o === undefined) return 1;
         var type = typeof o;
         if (type === 'boolean') return 2;
@@ -641,143 +643,141 @@ class CompiledApp {
         if (o instanceof Promise) return 18;
         return 19;
       },
-      _1620: o => [o],
-      _1621: (o0, o1) => [o0, o1],
-      _1622: (o0, o1, o2) => [o0, o1, o2],
-      _1623: (o0, o1, o2, o3) => [o0, o1, o2, o3],
-      _1624: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1622: o => [o],
+      _1623: (o0, o1) => [o0, o1],
+      _1624: (o0, o1, o2) => [o0, o1, o2],
+      _1625: (o0, o1, o2, o3) => [o0, o1, o2, o3],
+      _1626: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const getValue = dartInstance.exports.$wasmI8ArrayGet;
         for (let i = 0; i < length; i++) {
           jsArray[jsArrayOffset + i] = getValue(wasmArray, wasmArrayOffset + i);
         }
       },
-      _1625: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1627: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const setValue = dartInstance.exports.$wasmI8ArraySet;
         for (let i = 0; i < length; i++) {
           setValue(wasmArray, wasmArrayOffset + i, jsArray[jsArrayOffset + i]);
         }
       },
-      _1626: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1628: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const getValue = dartInstance.exports.$wasmI16ArrayGet;
         for (let i = 0; i < length; i++) {
           jsArray[jsArrayOffset + i] = getValue(wasmArray, wasmArrayOffset + i);
         }
       },
-      _1627: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1629: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const setValue = dartInstance.exports.$wasmI16ArraySet;
         for (let i = 0; i < length; i++) {
           setValue(wasmArray, wasmArrayOffset + i, jsArray[jsArrayOffset + i]);
         }
       },
-      _1628: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1630: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const getValue = dartInstance.exports.$wasmI32ArrayGet;
         for (let i = 0; i < length; i++) {
           jsArray[jsArrayOffset + i] = getValue(wasmArray, wasmArrayOffset + i);
         }
       },
-      _1629: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1631: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const setValue = dartInstance.exports.$wasmI32ArraySet;
         for (let i = 0; i < length; i++) {
           setValue(wasmArray, wasmArrayOffset + i, jsArray[jsArrayOffset + i]);
         }
       },
-      _1630: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1632: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const getValue = dartInstance.exports.$wasmF32ArrayGet;
         for (let i = 0; i < length; i++) {
           jsArray[jsArrayOffset + i] = getValue(wasmArray, wasmArrayOffset + i);
         }
       },
-      _1631: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1633: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const setValue = dartInstance.exports.$wasmF32ArraySet;
         for (let i = 0; i < length; i++) {
           setValue(wasmArray, wasmArrayOffset + i, jsArray[jsArrayOffset + i]);
         }
       },
-      _1632: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1634: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const getValue = dartInstance.exports.$wasmF64ArrayGet;
         for (let i = 0; i < length; i++) {
           jsArray[jsArrayOffset + i] = getValue(wasmArray, wasmArrayOffset + i);
         }
       },
-      _1633: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
+      _1635: (jsArray, jsArrayOffset, wasmArray, wasmArrayOffset, length) => {
         const setValue = dartInstance.exports.$wasmF64ArraySet;
         for (let i = 0; i < length; i++) {
           setValue(wasmArray, wasmArrayOffset + i, jsArray[jsArrayOffset + i]);
         }
       },
-      _1634: x0 => new ArrayBuffer(x0),
-      _1635: s => {
+      _1636: x0 => new ArrayBuffer(x0),
+      _1637: s => {
         if (/[[\]{}()*+?.\\^$|]/.test(s)) {
             s = s.replace(/[[\]{}()*+?.\\^$|]/g, '\\$&');
         }
         return s;
       },
-      _1637: x0 => x0.index,
-      _1638: x0 => x0.groups,
-      _1639: x0 => x0.flags,
-      _1640: x0 => x0.multiline,
-      _1641: x0 => x0.ignoreCase,
-      _1642: x0 => x0.unicode,
-      _1643: x0 => x0.dotAll,
-      _1644: (x0,x1) => { x0.lastIndex = x1 },
-      _1645: (o, p) => p in o,
-      _1646: (o, p) => o[p],
-      _1647: (o, p, v) => o[p] = v,
-      _1652: (x0,x1) => x0.bind(x1),
-      _1653: x0 => x0.next,
-      _1660: x0 => new Headers(x0),
-      _1663: x0 => x0.entries(),
-      _1664: (x0,x1) => x0.get(x1),
-      _1670: (x0,x1) => globalThis.fetch(x0,x1),
-      _1671: () => new AbortController(),
-      _1672: (x0,x1) => x0.abort(x1),
-      _1673: x0 => x0.getReader(),
-      _1674: x0 => x0.abort(),
-      _1696: (x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11) => ({method: x0,headers: x1,body: x2,mode: x3,credentials: x4,cache: x5,redirect: x6,referrer: x7,referrerPolicy: x8,integrity: x9,keepalive: x10,signal: x11}),
-      _1698: (x0,x1) => { x0.method = x1 },
-      _1710: (x0,x1) => { x0.redirect = x1 },
-      _1745: (x0,x1) => x0.cancel(x1),
-      _1746: x0 => x0.read(),
-      _1749: x0 => x0.value,
-      _1751: x0 => x0.done,
-      _1758: x0 => x0.body,
-      _1760: x0 => x0.headers,
-      _1762: x0 => x0.redirected,
-      _1763: x0 => x0.status,
-      _1764: x0 => x0.statusText,
-      _1765: x0 => x0.type,
-      _1766: x0 => x0.url,
-      _1788: (x0,x1) => x0.call(x1),
-      _1789: (x0,x1,x2) => x0.call(x1,x2),
-      _1794: x0 => x0.done,
-      _1796: x0 => x0.value,
-      _1798: (x0,x1,x2) => x0.transaction(x1,x2),
-      _1799: (x0,x1) => x0.objectStore(x1),
-      _1800: (x0,x1) => x0.getAllKeys(x1),
-      _1801: (x0,x1) => x0.getAll(x1),
-      _1803: (x0,x1) => x0.delete(x1),
-      _1804: (x0,x1,x2) => x0.put(x1,x2),
-      _1806: x0 => x0.close(),
-      _1808: (x0,x1,x2) => x0.open(x1,x2),
-      _1809: (x0,x1) => x0.contains(x1),
-      _1812: (x0,x1) => x0.createObjectStore(x1),
-      _1813: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1813(f,arguments.length,x0) }),
-      _1814: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1814(f,arguments.length,x0) }),
-      _1831: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1831(f,arguments.length,x0) }),
-      _1832: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1832(f,arguments.length,x0) }),
-      _1841: x0 => x0.aborted,
-      _1842: x0 => x0.reason,
-      _1843: x0 => x0.signal,
-      _1853: x0 => x0.deviceMemory,
-      _1854: (x0,x1) => x0.matchMedia(x1),
-      _1855: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1855(f,arguments.length,x0) }),
-      _1856: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1856(f,arguments.length,x0) }),
-      _1857: x0 => x0.openCursor(),
-      _1858: x0 => x0.continue(),
-      _1859: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1859(f,arguments.length,x0) }),
-      _1860: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1860(f,arguments.length,x0) }),
-      _1861: (x0,x1,x2) => x0.open(x1,x2),
-      _1862: x0 => x0.close(),
+      _1639: x0 => x0.index,
+      _1640: x0 => x0.groups,
+      _1641: x0 => x0.flags,
+      _1642: x0 => x0.multiline,
+      _1643: x0 => x0.ignoreCase,
+      _1644: x0 => x0.unicode,
+      _1645: x0 => x0.dotAll,
+      _1646: (x0,x1) => { x0.lastIndex = x1 },
+      _1647: (o, p) => p in o,
+      _1648: (o, p) => o[p],
+      _1649: (o, p, v) => o[p] = v,
+      _1654: (x0,x1) => x0.bind(x1),
+      _1655: x0 => x0.next,
+      _1662: x0 => new Headers(x0),
+      _1665: x0 => x0.entries(),
+      _1666: (x0,x1) => x0.get(x1),
+      _1672: (x0,x1) => globalThis.fetch(x0,x1),
+      _1673: () => new AbortController(),
+      _1674: (x0,x1) => x0.abort(x1),
+      _1675: x0 => x0.getReader(),
+      _1676: x0 => x0.abort(),
+      _1698: (x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11) => ({method: x0,headers: x1,body: x2,mode: x3,credentials: x4,cache: x5,redirect: x6,referrer: x7,referrerPolicy: x8,integrity: x9,keepalive: x10,signal: x11}),
+      _1700: (x0,x1) => { x0.method = x1 },
+      _1712: (x0,x1) => { x0.redirect = x1 },
+      _1747: (x0,x1) => x0.cancel(x1),
+      _1748: x0 => x0.read(),
+      _1751: x0 => x0.value,
+      _1753: x0 => x0.done,
+      _1760: x0 => x0.body,
+      _1762: x0 => x0.headers,
+      _1764: x0 => x0.redirected,
+      _1765: x0 => x0.status,
+      _1766: x0 => x0.statusText,
+      _1767: x0 => x0.type,
+      _1768: x0 => x0.url,
+      _1790: (x0,x1) => x0.call(x1),
+      _1791: (x0,x1,x2) => x0.call(x1,x2),
+      _1796: x0 => x0.done,
+      _1798: x0 => x0.value,
+      _1800: (x0,x1,x2) => x0.transaction(x1,x2),
+      _1801: (x0,x1) => x0.objectStore(x1),
+      _1802: (x0,x1) => x0.getAllKeys(x1),
+      _1803: (x0,x1) => x0.getAll(x1),
+      _1805: (x0,x1) => x0.delete(x1),
+      _1806: (x0,x1,x2) => x0.put(x1,x2),
+      _1808: x0 => x0.close(),
+      _1810: (x0,x1,x2) => x0.open(x1,x2),
+      _1811: (x0,x1) => x0.contains(x1),
+      _1814: (x0,x1) => x0.createObjectStore(x1),
+      _1815: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1815(f,arguments.length,x0) }),
+      _1816: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1816(f,arguments.length,x0) }),
+      _1833: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1833(f,arguments.length,x0) }),
+      _1834: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1834(f,arguments.length,x0) }),
+      _1843: x0 => x0.aborted,
+      _1844: x0 => x0.reason,
+      _1845: x0 => x0.signal,
+      _1855: x0 => x0.deviceMemory,
+      _1856: (x0,x1) => x0.matchMedia(x1),
+      _1857: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1857(f,arguments.length,x0) }),
+      _1858: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1858(f,arguments.length,x0) }),
+      _1859: x0 => x0.openCursor(),
+      _1860: x0 => x0.continue(),
+      _1861: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1861(f,arguments.length,x0) }),
+      _1862: (module,f) => finalizeWrapper(f, function(x0) { return module.exports._1862(f,arguments.length,x0) }),
       _1863: () => new AbortController(),
       _1864: x0 => x0.abort(),
       _1865: (x0,x1,x2,x3,x4,x5) => ({method: x0,headers: x1,body: x2,credentials: x3,redirect: x4,signal: x5}),
