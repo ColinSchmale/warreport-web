@@ -101,6 +101,10 @@
 &lt;td&gt;Entfernte weltweite Chatfunktion, die früher zufällige Spieler verband und bei der Clansuche half&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;Hybrid&lt;/td&gt;
+&lt;td&gt;Armee, die zwei Truppen kombiniert, häufig Schweinereiter und Tunnelgräber&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;HP&lt;/td&gt;
 &lt;td&gt;Trefferpunkte; gesamte Lebenspunkte einer Einheit oder eines Gebäudes&lt;/td&gt;
 &lt;/tr&gt;
@@ -141,6 +145,10 @@
 &lt;td&gt;Einsatz von Skelett- oder Fledermauszaubern mit Wut und Unsichtbarkeit, um Verteidigungen und die Clanburg im Kern der Basis zu zerstören&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;Spam&lt;/td&gt;
+&lt;td&gt;Simpler Angriff ohne ausgeprägten Plan und Funnelling, häufig mit einer einzigen Einheit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;Swag&lt;/td&gt;
 &lt;td&gt;Absichtliches Einsetzen unnötiger Zauber oder Truppen am Ende eines sicheren 3-Sterne-Angriffs, um Überlegenheit zu zeigen&lt;/td&gt;
 &lt;/tr&gt;
@@ -150,7 +158,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Teaser Base&lt;/td&gt;
-&lt;td&gt;Basis, die das Rathaus oder hohen Wert offen zeigt, um Angreifer in eine fallenreiche Seite zu locken&lt;/td&gt;
+&lt;td&gt;Basis, die das Rathaus oder andere wertvolle Gebäude offen zeigt, um Angreifer in eine fallenreiche Seite zu locken&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;TH&lt;/td&gt;
@@ -229,7 +237,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Stadtrathaus Level&lt;/th&gt;
+&lt;th&gt;Stadtrathaus-Level&lt;/th&gt;
 &lt;th&gt;Belohnung&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -275,7 +283,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Bezirksrathaus Level&lt;/th&gt;
+&lt;th&gt;Bezirksrathaus-Level&lt;/th&gt;
 &lt;th&gt;Belohnung&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -303,8 +311,8 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Zu kompliziert? Lass War Report die Berechnung für dich übernehmen.&lt;/p&gt;</description></item><item><title>Wie berechnet man die Medaillen für die Clankriegsliga?</title><link>https://warreport.app/about/de/blog/clan_war_league_medals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/de/blog/clan_war_league_medals/</guid><description>
-&lt;p&gt;Medaillen aus der Clankriegsliga werden in Basismedaillen, die jeder Spieler im Kader verdienen kann, und Bonusmedaillen, die Anführer am Ende der Woche vergeben können, aufgeteilt.&lt;/p&gt;
-&lt;p&gt;Die Basismedaillen hängen von der Ligastufe, der finalen Platzierung des Clans und den von einem Spieler verdienten Sternen ab. Jeder Spieler erhält einen prozentualen Anteil der maximal möglichen Clanm​edaillen, basierend auf der Gesamtzahl seiner Sterne aus den 7 Kriegen.&lt;/p&gt;
+&lt;p&gt;Medaillen aus der Clankriegsliga werden in Basismedaillen, die jeder Spieler im Kader verdienen kann, und Bonusmedaillen, die Anführer am Ende der CWL-Saison an Top-Spieler vergeben können, aufgeteilt.&lt;/p&gt;
+&lt;p&gt;Die Basismedaillen hängen von der Ligastufe, der finalen Platzierung des Clans und den von einem Spieler verdienten Sternen ab. Jeder Spieler erhält einen prozentualen Anteil der maximal möglichen Clanmedaillen, basierend auf der Gesamtzahl seiner Sterne aus den 7 Kriegen.&lt;/p&gt;
 &lt;h2&gt;Medaillen nach Clanplatzierung&lt;span class="hx:absolute hx:-mt-20" id="medaillen-nach-clanplatzierung"&gt;&lt;/span&gt;
 &lt;a href="#medaillen-nach-clanplatzierung" class="subheading-anchor" aria-label="Permalink für diesen Abschnitt"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
 &lt;thead&gt;
@@ -564,7 +572,7 @@
 &lt;td&gt;469&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Legende-Liga&lt;/td&gt;
+&lt;td&gt;Legenden-Liga&lt;/td&gt;
 &lt;td&gt;508&lt;/td&gt;
 &lt;td&gt;505&lt;/td&gt;
 &lt;td&gt;502&lt;/td&gt;
@@ -698,7 +706,7 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Legende-Liga&lt;/td&gt;
+&lt;td&gt;Legenden-Liga&lt;/td&gt;
 &lt;td&gt;105&lt;/td&gt;
 &lt;td&gt;6&lt;/td&gt;
 &lt;/tr&gt;
