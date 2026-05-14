@@ -2,3 +2,6 @@
 # ship with the deploy — they roughly double the payload and let anyone
 # reconstruct the obfuscated Dart source.
 *.map
+
+# macOS Finder metadata, never useful in a deployed web bundle.
+.DS_Store
