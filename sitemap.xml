@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://warreport.app/sitemap-app.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://warreport.app/about/en/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://warreport.app/about/de/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>

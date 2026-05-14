@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://warreport.app/sitemap.xml

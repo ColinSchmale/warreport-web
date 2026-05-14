@@ -1,11 +1,11 @@
 {
-    "message2": {
+    "messageHidden": {
         "id": "1737495194",
         "type": "info",
         "message": "Hello World",
         "url": "https://discord.gg/pEDjJgy"
     },
-    "banner2": {
+    "bannerHidden": {
         "id": "1765661601",
         "type": "info",
         "title": "Merry Christmas!",

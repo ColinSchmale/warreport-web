@@ -8,7 +8,7 @@
     "dir": "auto",
     "lang": "en",
     "description": "War Report is the ultimate companion app for Clash of Clans, which offers detailed statistics about every part of the game.",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "prefer_related_applications": true,
     "related_applications": [
         {

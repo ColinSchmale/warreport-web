@@ -1,5 +1,0 @@
-https://www.warreport.app
-https://www.warreport.app/clans?action=search
-https://www.warreport.app/players?action=search
-https://www.warreport.app/about
-https://www.warreport.app/about/docs
