@@ -1,0 +1,4 @@
+# Source maps are uploaded to Sentry by sentry_dart_plugin and should not
+# ship with the deploy — they roughly double the payload and let anyone
+# reconstruct the obfuscated Dart source.
+*.map
