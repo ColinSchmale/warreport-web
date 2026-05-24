@@ -13,12 +13,30 @@
     <loc>https://warreport.app/clans?action=search</loc>
   </url>
   <url>
+    <loc>https://warreport.app/clans/rankings</loc>
+  </url>
+  <url>
+    <loc>https://warreport.app/clans/builder-base-rankings</loc>
+  </url>
+  <url>
+    <loc>https://warreport.app/clans/capital-rankings</loc>
+  </url>
+  <url>
     <loc>https://warreport.app/players</loc>
   </url>
   <url>
     <loc>https://warreport.app/players?action=search</loc>
   </url>
   <url>
+    <loc>https://warreport.app/players/rankings</loc>
+  </url>
+  <url>
+    <loc>https://warreport.app/players/builder-base-rankings</loc>
+  </url>
+  <url>
     <loc>https://warreport.app/more</loc>
+  </url>
+  <url>
+    <loc>https://warreport.app/more/player-armies</loc>
   </url>
 </urlset>
