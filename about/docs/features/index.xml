@@ -89,4 +89,22 @@
 &lt;h2&gt;Deleting your account&lt;span class="hx:absolute hx:-mt-20" id="deleting-your-account"&gt;&lt;/span&gt;
 &lt;a href="#deleting-your-account" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can delete your account at any time from the app&amp;rsquo;s &lt;em&gt;More&lt;/em&gt; menu, or via &lt;a href="https://warreport.app/more"target="_blank" rel="noopener"&gt;warreport.app/more&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
 &lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
-&lt;/svg&gt;&lt;/a&gt;. Deleting your account removes your synced data from the backend; see the &lt;a href="https://warreport.app/about/privacy_policy"&gt;Privacy Policy&lt;/a&gt; for details on retention.&lt;/p&gt;</description></item></channel></rss>
+&lt;/svg&gt;&lt;/a&gt;. Deleting your account removes your synced data from the backend; see the &lt;a href="https://warreport.app/about/privacy_policy"&gt;Privacy Policy&lt;/a&gt; for details on retention.&lt;/p&gt;</description></item><item><title>API</title><link>https://warreport.app/about/docs/features/api/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/docs/features/api/</guid><description>
+&lt;p&gt;There&amp;rsquo;s a public API at &lt;a href="https://api.warreport.app"target="_blank" rel="noopener"&gt;https://api.warreport.app&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt; that serves additional Legend League and army statistics. The full contract is published as an &lt;a href="https://api.warreport.app/openapi.json"target="_blank" rel="noopener"&gt;OpenAPI 3.1 spec&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;What&amp;rsquo;s available&lt;span class="hx:absolute hx:-mt-20" id="whats-available"&gt;&lt;/span&gt;
+&lt;a href="#whats-available" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Each endpoint serves an end-of-season snapshot from the Legend League:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Legend League rankings&lt;/strong&gt;: global player and clan rankings, plus per-country breakdowns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Popular armies&lt;/strong&gt;: the most-used army compositions among the top 200 Legend League players, with average stars and destruction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heroes and hero equipment&lt;/strong&gt;: usage statistics for heroes and hero equipment among top Legend League players.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No API key is required. The data is free to use for anything. If the data shows up somewhere public, please credit War Report by mentioning the app and linking to &lt;a href="https://warreport.app"target="_blank" rel="noopener"&gt;https://warreport.app&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you build something with it, I&amp;rsquo;d love to hear about it. Drop a message in the &lt;a href="https://discord.gg/pEDjJgy"target="_blank" rel="noopener"&gt;Discord server&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
