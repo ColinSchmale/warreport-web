@@ -107,4 +107,33 @@
 &lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Wenn du etwas damit baust, würde ich mich freuen, davon zu hören. Schreib gerne eine Nachricht im &lt;a href="https://discord.gg/pEDjJgy"target="_blank" rel="noopener"&gt;Discord-Server&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
 &lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
-&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Einbetten</title><link>https://warreport.app/about/de/docs/features/embedding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/de/docs/features/embedding/</guid><description>
+&lt;p&gt;War Report kann jede einzelne Seite für sich anzeigen, ohne die App-Navigation, sodass du sie auf deiner eigenen Website einbetten kannst. Das ist praktisch für Clan-Seiten, Blogs oder Fan-Seiten, die Live-Daten zeigen möchten, ohne Besucher woanders hinzuschicken.&lt;/p&gt;
+&lt;h2&gt;So funktioniert es&lt;span class="hx:absolute hx:-mt-20" id="so-funktioniert-es"&gt;&lt;/span&gt;
+&lt;a href="#so-funktioniert-es" class="subheading-anchor" aria-label="Permalink für diesen Abschnitt"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Nimm die normale Web-Adresse der Seite, die du anzeigen möchtest, und hänge &lt;code&gt;?embed=1&lt;/code&gt; an, lade diese URL dann in einem &lt;code&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Im Einbettungsmodus werden die untere Navigationsleiste, die Navigationsleiste an der Seite und die Zurück-Schaltfläche ausgeblendet, sodass die eingebettete Ansicht bestehen bleibt und Besucher immer genau die Seite sehen, die du eingebettet hast. Ein Tippen auf einen Link, der normalerweise eine andere Seite öffnen würde (etwa ein Clan, ein Spieler oder ein Krieg), öffnet diese Seite stattdessen in der vollständigen War-Report-App in einem neuen Browser-Tab, sodass die Einbettung selbst nie weg navigiert. In der Ecke wird ein kleiner Link zurück zu War Report angezeigt.&lt;/p&gt;
+&lt;h2&gt;Beispiel: eine Spielerseite einbetten&lt;span class="hx:absolute hx:-mt-20" id="beispiel-eine-spielerseite-einbetten"&gt;&lt;/span&gt;
+&lt;a href="#beispiel-eine-spielerseite-einbetten" class="subheading-anchor" aria-label="Permalink für diesen Abschnitt"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Jeder Spieler hat eine Seite unter &lt;code&gt;https://warreport.app/players/&amp;lt;TAG&amp;gt;&lt;/code&gt;, wobei &lt;code&gt;&amp;lt;TAG&amp;gt;&lt;/code&gt; das Spieler-Tag ohne das führende &lt;code&gt;#&lt;/code&gt; ist. Der Spieler mit dem Tag &lt;code&gt;#8UYVP00PV&lt;/code&gt; ist beispielsweise unter &lt;a href="https://warreport.app/players/8UYVP00PV"target="_blank" rel="noopener"&gt;https://warreport.app/players/8UYVP00PV&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
+&lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;/svg&gt;&lt;/a&gt; zu finden.&lt;/p&gt;
+&lt;p&gt;Um diese Spielerseite einzubetten, hänge &lt;code&gt;?embed=1&lt;/code&gt; an und setze die URL in ein iframe ein:&lt;/p&gt;
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
+&lt;div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;iframe&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="na"&gt;src&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;https://warreport.app/players/8UYVP00PV?embed=1&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="na"&gt;width&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;400&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="na"&gt;height&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;700&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="na"&gt;style&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;border: none;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="na"&gt;title&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;War Report Spielerprofil&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;iframe&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Code kopieren"
+aria-label="Code kopieren"
+data-copied-label="Kopiert!"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Passe &lt;code&gt;width&lt;/code&gt; und &lt;code&gt;height&lt;/code&gt; an dein Layout an. Derselbe Ansatz funktioniert auch für andere Seiten wie Clans, Kriege und Ranglisten. Hänge einfach &lt;code&gt;?embed=1&lt;/code&gt; an die jeweilige URL an.&lt;/p&gt;</description></item></channel></rss>
