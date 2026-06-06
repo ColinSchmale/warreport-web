@@ -197,6 +197,27 @@
       right: 0;
     }
 
+    /* Size the web splash logo in viewport-width units so its on-screen size
+       stays constant. Without a viewport meta, mobile browsers lay out at a
+       ~980px viewport and scale the page down to the screen; when Flutter boots
+       it switches to a device-width viewport (scale 1.0). A fixed px size would
+       jump (small -> big) across that transition, but vw tracks the layout
+       viewport, so the rendered size is the same in both phases (~46% width). */
+    #splash img {
+      width: 46vw;
+      height: 46vw;
+    }
+
+    /* Desktop has no ~980px fallback, so vw would be oversized. Cap to a fixed
+       size for non-touch devices. (hover/pointer is used instead of a width
+       query, which would flip between the two mobile phases.) */
+    @media (hover: hover) and (pointer: fine) {
+      #splash img {
+        width: 260px;
+        height: 260px;
+      }
+    }
+
     @media (prefers-color-scheme: dark) {
       body {
         background-color: #202227;
