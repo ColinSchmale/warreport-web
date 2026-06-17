@@ -4,7 +4,7 @@
 
 
 ## Dokumentation
-- [FAQ](https://warreport.app/about/de/docs/faq/): Warum gibt es keine Legendenliga-Statistiken für meinen Account? Die App verfolgt Spieler nur, …
+- [FAQ](https://warreport.app/about/de/docs/faq/): Warum gibt es keine vollständigen Legendenliga-Statistiken für meinen Account? Die App verfolgt …
 
 ### Funktionen
 - [Spieler](https://warreport.app/about/de/docs/features/players/): Spielerdetails, wie z.B. die Helden- und Truppenstufen, werden auf der Spielerseite angezeigt. Für …
@@ -33,5 +33,5 @@ Deutschland E-Mailsupport@warreportmail.app
 - [Datenschutzerklärung](https://warreport.app/about/de/privacy_policy/): Diese Erklärung informiert über die Verarbeitung personenbezogener Daten in der War Report App und …
 
 ---
-Generated on 2026-05-30 23:27:01 UTC
+Generated on 2026-06-16 23:34:42 UTC
 Site: https://warreport.app/about/
