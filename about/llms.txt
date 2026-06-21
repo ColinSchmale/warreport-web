@@ -4,7 +4,7 @@
 
 
 ## Documentation
-- [FAQ](https://warreport.app/about/docs/faq/): Why are the Legend League stats for my account incomplete? The app only tracks players while they …
+- [FAQ](https://warreport.app/about/docs/faq/): Why are the Legend League stats for my account incomplete? War Report tries to track every player in …
 
 ### Features
 - [Players](https://warreport.app/about/docs/features/players/): Player details, such as hero and troop levels, are displayed on the player page. For additional …
@@ -27,11 +27,12 @@
 
 ## Root Pages
 - [](https://warreport.app/about/discord/): Join my Discord server for app support, giveaways, and to chat with other War Report users.
+You …
 - [Contact](https://warreport.app/about/contact/): Colin SchmaleSülldorfer Mühlenweg 34
 22589 Hamburg
 Germany Emailsupport@warreportmail.app
 - [Privacy Policy](https://warreport.app/about/privacy_policy/): This policy explains how the War Report app and warreport.app process personal data. It may be …
 
 ---
-Generated on 2026-06-16 23:34:42 UTC
+Generated on 2026-06-18 20:48:19 UTC
 Site: https://warreport.app/about/
