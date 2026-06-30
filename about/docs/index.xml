@@ -162,11 +162,11 @@
 &lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;
 &lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;What&amp;rsquo;s available&lt;span class="hx:absolute hx:-mt-20" id="whats-available"&gt;&lt;/span&gt;
-&lt;a href="#whats-available" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Each endpoint serves an end-of-season snapshot from the Legend League:&lt;/p&gt;
+&lt;a href="#whats-available" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Legend League rankings are an end-of-season snapshot; the army, hero, and equipment stats are refreshed daily:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Legend League rankings&lt;/strong&gt;: global player and clan rankings, plus per-country breakdowns.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Popular armies&lt;/strong&gt;: the most-used army compositions among the top 200 Legend League players, with average stars and destruction.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Heroes and hero equipment&lt;/strong&gt;: usage statistics for heroes and hero equipment among top Legend League players.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Legend League rankings&lt;/strong&gt;: global player and clan rankings, plus per-country breakdowns. Captured once at the end of each Legend season.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Popular armies&lt;/strong&gt;: the most-used army compositions among the top 200 Legend League players, with average stars and destruction. Updated daily.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heroes and hero equipment&lt;/strong&gt;: usage statistics for heroes and hero equipment among top Legend League players. Updated daily.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;No API key is required. The data is free to use for anything. If the data shows up somewhere public, please credit War Report by mentioning the app and linking to &lt;a href="https://warreport.app"target="_blank" rel="noopener"&gt;https://warreport.app&lt;svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"&gt;
 &lt;path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"/&gt;

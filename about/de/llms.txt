@@ -33,5 +33,5 @@ Deutschland E-Mailsupport@warreportmail.app
 - [Datenschutzerklärung](https://warreport.app/about/de/privacy_policy/): Diese Erklärung informiert über die Verarbeitung personenbezogener Daten in der War Report App und …
 
 ---
-Generated on 2026-06-18 20:48:19 UTC
+Generated on 2026-06-25 12:03:11 UTC
 Site: https://warreport.app/about/

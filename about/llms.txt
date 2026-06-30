@@ -34,5 +34,5 @@ Germany Emailsupport@warreportmail.app
 - [Privacy Policy](https://warreport.app/about/privacy_policy/): This policy explains how the War Report app and warreport.app process personal data. It may be …
 
 ---
-Generated on 2026-06-18 20:48:19 UTC
+Generated on 2026-06-25 12:03:11 UTC
 Site: https://warreport.app/about/
