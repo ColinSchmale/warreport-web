@@ -21,5 +21,6 @@
         "#YJRVYR2R",
         "#Q22J99PLQ"
     ],
-    "isWorldChampionshipEnabled": true
+    "isWorldChampionshipEnabled": true,
+    "incrementBattleLogTownHallLevel": true
 }

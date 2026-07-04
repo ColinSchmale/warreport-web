@@ -2379,6 +2379,8 @@ go_router
 path_provider
 path_provider_android
 path_provider_foundation
+path_provider_linux
+path_provider_platform_interface
 quick_actions_android
 quick_actions_ios
 shared_preferences
@@ -7376,8 +7378,6 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_lints
-path_provider_linux
-path_provider_platform_interface
 path_provider_windows
 plugin_platform_interface
 quick_actions
@@ -34671,7 +34671,7 @@ xml
 
 The MIT License
 
-Copyright (c) 2006-2025 Lukas Renggli.
+Copyright (c) 2006-2026 Lukas Renggli.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
