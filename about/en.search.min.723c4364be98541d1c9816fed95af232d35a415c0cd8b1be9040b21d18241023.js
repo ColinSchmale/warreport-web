@@ -6,3 +6,5 @@ document.addEventListener("DOMContentLoaded",function(){if(/iPad|iPhone|Macintos
             <div class="hextra-search-title">`+r(e.children.title,s)+`</div>`+(e.children.content?`<div class="hextra-search-excerpt">`+r(e.children.content,s)+`</div>`:"")+`
           </a>
         </li>`);d.addEventListener("mousemove",l),d.addEventListener("keydown",n),d.querySelector("a").addEventListener("click",i),a.appendChild(d)}o.appendChild(a),o.dataset.count=t.length}}()
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="0a7e510a-eb5c-5de6-8f47-68e05d4ea54f")}catch(e){}}();
+//# debugId=0a7e510a-eb5c-5de6-8f47-68e05d4ea54f

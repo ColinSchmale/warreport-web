@@ -75,3 +75,5 @@ self.addEventListener("notificationclick", _handleNotif);
 self.addEventListener("install", event => { self.skipWaiting(); });
 self.addEventListener("activate", event => { event.waitUntil(clients.claim()); });
 
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="3c68e1fe-5e7d-51d9-b704-0b702460f079")}catch(e){}}();
+//# debugId=3c68e1fe-5e7d-51d9-b704-0b702460f079

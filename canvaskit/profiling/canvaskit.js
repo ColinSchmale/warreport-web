@@ -19,3 +19,5 @@ else if (typeof define === 'function' && define['amd'])
   define([], function() { return CanvasKitInit; });
 else if (typeof exports === 'object')
   exports["CanvasKitInit"] = CanvasKitInit;
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="cb6efe38-afc5-5fb1-acd9-6fad00fddf88")}catch(e){}}();
+//# debugId=cb6efe38-afc5-5fb1-acd9-6fad00fddf88

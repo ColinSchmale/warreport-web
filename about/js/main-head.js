@@ -20,3 +20,5 @@ function setTheme(theme) {
 }
 
 setTheme("color-theme" in localStorage ? localStorage.getItem("color-theme") : 'system')
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="0eb53456-f1ff-5d5c-b76d-2572cd14e3f2")}catch(e){}}();
+//# debugId=0eb53456-f1ff-5d5c-b76d-2572cd14e3f2

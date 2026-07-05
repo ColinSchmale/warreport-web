@@ -2523,3 +2523,5 @@ let ub;
   return rb;
 }) : "object" === typeof sb.exports ? sb.exports = rb : sb.FlexSearch = rb;
 }(this||self));
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="02f27aeb-07b3-54c2-811a-36f550999f37")}catch(e){}}();
+//# debugId=02f27aeb-07b3-54c2-811a-36f550999f37

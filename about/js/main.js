@@ -1079,3 +1079,5 @@ document.addEventListener("DOMContentLoaded", function () {
   // Handle initial load
   setTimeout(handleHashNavigation, 100);
 });
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="d4a2fbf5-713a-5a1b-8d0c-03afcc3ed499")}catch(e){}}();
+//# debugId=d4a2fbf5-713a-5a1b-8d0c-03afcc3ed499

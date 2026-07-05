@@ -169,3 +169,5 @@ function Jd(a,b,c,d,f,h){var n=Pd();try{K.get(a)(b,c,d,f,h)}catch(k){Od(n);if(k!
 );
 })();
 export default CanvasKitInit;
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="6b096d19-d7fe-52df-a28a-a3c15beb2dd5")}catch(e){}}();
+//# debugId=6b096d19-d7fe-52df-a28a-a3c15beb2dd5
