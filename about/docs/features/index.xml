@@ -77,12 +77,21 @@
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Popular Armies</title><link>https://warreport.app/about/docs/features/popular_armies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/docs/features/popular_armies/</guid><description>
 &lt;p&gt;Open the Popular Armies page from the &lt;em&gt;More&lt;/em&gt; menu. It shows the most-used army compositions of the top 200 Legend League players.&lt;/p&gt;
-&lt;p&gt;For more information, see &lt;em&gt;&lt;a href="../faq#how-often-are-the-popular-armies-updated-and-where-does-the-data-come-from"&gt;How often are the popular armies updated, and where does the data come from?&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;For more information, see &lt;em&gt;&lt;a href="../../faq/#how-often-are-the-popular-armies-updated-and-where-does-the-data-come-from"&gt;How often are the popular armies updated, and where does the data come from?&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Army cards&lt;/strong&gt; showing the dominant troop, total usage count, average stars, and average destruction.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Army details&lt;/strong&gt; when you tap a card, showing the Legend League players who used that army, sorted by average stars and destruction.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Open in-game&lt;/strong&gt; to copy an army&amp;rsquo;s exact composition into the game with a single tap.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Account</title><link>https://warreport.app/about/docs/features/account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/docs/features/account/</guid><description>
+&lt;/ul&gt;</description></item><item><title>Army Stats</title><link>https://warreport.app/about/docs/features/army_stats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/docs/features/army_stats/</guid><description>
+&lt;p&gt;Open Army Stats from the &lt;em&gt;More&lt;/em&gt; menu to see how armies are used in the Legend League. Unlike &lt;a href="../popular_armies"&gt;Popular Armies&lt;/a&gt;, which is based on the current top 200 players, Army Stats counts attacks of all players in Legend League I.&lt;/p&gt;
+&lt;h2&gt;Daily&lt;span class="hx:absolute hx:-mt-20" id="daily"&gt;&lt;/span&gt;
+&lt;a href="#daily" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Day summary&lt;/strong&gt; with the total attacks, players, and armies, average stars, 3-star rate, average destruction, and the star distribution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Army ranking&lt;/strong&gt; ordered by usage, with each army&amp;rsquo;s usage share, average stars, and average destruction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tap an army to see its full composition, and its performance broken down by hero, equipment loadout, and pet. You can also open the army in-game.&lt;/p&gt;
+&lt;h2&gt;Trends&lt;span class="hx:absolute hx:-mt-20" id="trends"&gt;&lt;/span&gt;
+&lt;a href="#trends" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;strong&gt;Trends&lt;/strong&gt; tab compares the leading armies across the last 14 available days. Use the selector to compare usage, 3-star rate, average stars, or average destruction over time.&lt;/p&gt;</description></item><item><title>Account</title><link>https://warreport.app/about/docs/features/account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>support@warreport.app (Colin Schmale)</author><guid>https://warreport.app/about/docs/features/account/</guid><description>
 &lt;p&gt;Creating an account in the app settings unlocks extra features. You can sign in with an email and password, your Discord account, or your Apple ID.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Cross-device sync&lt;/strong&gt; keeps your bookmarked players, clans, and settings in sync across every device you&amp;rsquo;re signed in on, so you can switch between phone and tablet without losing track of your favorites.&lt;/li&gt;
